@@ -1,0 +1,18 @@
+---
+title: "The Rasch model: Questionnaires and beyond"
+author: "Ottavia M. Epifania"
+date: 'Università Cattolica del Sacro Cuore, Università di Padova'
+output:
+  pdf_document: default
+header-includes:
+  - \usepackage{leading}
+  - \leading{20pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In most researchers' mind, the Rasch model is associated with the analysis of questionnaires. Its use for analyzing other types of data is often underappreciated, potentially because of the strong assumptions on which it rests. However, if one rethinks the Rasch model as a linear model, its applicability goes beyond questionnaires, making it suitable for the analysis of complex data structures, such as those of some implicit measures, and of responses beyond accuracy, such as response times. In this contribution, I illustrate the similarities between the Rasch model and the Generalized Linear Model (GLM), as well as its extension to Generalized Linear Mixed-Effects Models for obtaining a Rasch-like parametrization of the data while accouting for the random variability.
+
+> **Keywords**: Rasch Model, Generalized Linear Model, Accuracy responses, time responses
