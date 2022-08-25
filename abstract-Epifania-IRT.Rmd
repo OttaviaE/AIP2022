@@ -1,0 +1,18 @@
+---
+title: "Don't say CAT: New Item Response Theory approaches for developing short test forms"
+author: "Ottavia M. Epifania$^{1,2}$, Pasquale Anselmi$^{2}$, Egidio Robusto$^{2}$"
+date: "$^{1}$Università Cattolica del Sacro Cuore, $^{2}$Dipartimento di Filosofia, Sociologia, Pedagogia e Psicologia Applicata, Università di Padova"
+output:
+  pdf_document: default
+header-includes:
+  - \usepackage{leading}
+  - \leading{20pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Given the detailed information provided at both respondent and item levels, Item Response Theory (IRT) models represent valuable tools for shortening tests. This contribution presents new IRT-based procedures for developing short test forms. These procedures are based on the information that each item provides in respect to different trait levels of interest (denoted as $\theta$ targets), which are obtained by segmenting the latent trait continuum in either equal or unequal intervals. In a simulation study, new procedures were compared with the typical IRT procedure and with a random selection of items. Different latent trait distributions (normal, positively skewed, uniform) were considered as well. The new procedures outperformed the existing and the random ones in recovering central and peripheral regions of the latent trait continuum, particularly when the short test forms consisted of fewer items. Additionally, the tests obtained with the new procedures tended to be more informative than those obtained with typical and random procedures. 
+
+> **Keywords**: Item Response Theory, 2PL Model, Short Test Forms, Item Information Function, Test Information Function. 

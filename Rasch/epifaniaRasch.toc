@@ -1,0 +1,6 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\beamer@sectionintoc {1}{The intuition}{2}{0}{1}
+\beamer@sectionintoc {2}{The model}{6}{0}{2}
+\beamer@sectionintoc {3}{Wait...}{11}{0}{3}
+\beamer@sectionintoc {4}{Beyond}{12}{0}{4}
