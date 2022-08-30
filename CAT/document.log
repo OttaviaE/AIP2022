@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  29 AUG 2022 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  29 AUG 2022 14:36
 entering extended mode
-**./epifaniaRasch.tex
-(epifaniaRasch.tex
+**./document.tex
+(document.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03>
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -818,33 +818,13 @@ apore.sty
 eminiframes.sty))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthem
 ecircles.sty)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2020/10/06 3.50 The Babel package
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks44
+\inpenc@posthook=\toks45
 
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2020/10/06 3.50 Babel common definitions
-\babel@savecnt=\count318
-\U@D=\dimen284
-\l@babelnohyphens=\language79
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read3
-)
-LaTeX Info: Redefining \textlatin on input line 709.
-\bbl@dirlevel=\count319
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.
-ldf
-Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
-\it@lettering=\count320
-\it@doublequoteactive=\count321
-\it@ISOcompliance=\count322
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/base\latin1.def
+File: latin1.def 2020/08/01 v1.3d Input encoding file
 ))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz
 .sty
@@ -863,8 +843,8 @@ File: pgfmoduleplot.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
 omp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/10/01 v3.1.6a (3.1.6a)
-\pgf@nodesepstart=\dimen285
-\pgf@nodesepend=\dimen286
+\pgf@nodesepstart=\dimen284
+\pgf@nodesepend=\dimen285
 )
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
 omp-version-1-18.sty
@@ -885,10 +865,10 @@ Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
 e.tex)
-\pgffor@iter=\dimen287
-\pgffor@skip=\dimen288
-\pgffor@stack=\toks44
-\pgffor@toks=\toks45
+\pgffor@iter=\dimen286
+\pgffor@skip=\dimen287
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
 ))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz\tikz.code.tex
@@ -897,39 +877,143 @@ Package: tikz 2020/10/01 v3.1.6a (3.1.6a)
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
 raryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\pgf@plot@mark@count=\count323
-\pgfplotmarksize=\dimen289
+\pgf@plot@mark@count=\count318
+\pgfplotmarksize=\dimen288
 )
-\tikz@lastx=\dimen290
-\tikz@lasty=\dimen291
-\tikz@lastxsaved=\dimen292
-\tikz@lastysaved=\dimen293
-\tikz@lastmovetox=\dimen294
-\tikz@lastmovetoy=\dimen295
-\tikzleveldistance=\dimen296
-\tikzsiblingdistance=\dimen297
+\tikz@lastx=\dimen289
+\tikz@lasty=\dimen290
+\tikz@lastxsaved=\dimen291
+\tikz@lastysaved=\dimen292
+\tikz@lastmovetox=\dimen293
+\tikz@lastmovetoy=\dimen294
+\tikzleveldistance=\dimen295
+\tikzsiblingdistance=\dimen296
 \tikz@figbox=\box73
 \tikz@figbox@bg=\box74
 \tikz@tempbox=\box75
 \tikz@tempbox@bg=\box76
-\tikztreelevel=\count324
-\tikznumberofchildren=\count325
-\tikznumberofcurrentchild=\count326
-\tikz@fig@count=\count327
+\tikztreelevel=\count319
+\tikznumberofchildren=\count320
+\tikznumberofcurrentchild=\count321
+\tikz@fig@count=\count322
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
 ematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\pgfmatrixcurrentrow=\count328
-\pgfmatrixcurrentcolumn=\count329
-\pgf@matrix@numberofcolumns=\count330
+\pgfmatrixcurrentrow=\count323
+\pgfmatrixcurrentcolumn=\count324
+\pgf@matrix@numberofcolumns=\count325
 )
-\tikz@expandcount=\count331
+\tikz@expandcount=\count326
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 )))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen297
+\ar@mcellbox=\box77
+\extrarowheight=\dimen298
+\NC@list=\toks48
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box78
+))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks49
+\verbatim@line=\toks50
+\verbatim@in@stream=\read3
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen299
+\lightrulewidth=\dimen300
+\cmidrulewidth=\dimen301
+\belowrulesep=\dimen302
+\belowbottomsep=\dimen303
+\aboverulesep=\dimen304
+\abovetopsep=\dimen305
+\cmidrulesep=\dimen306
+\cmidrulekern=\dimen307
+\defaultaddspace=\dimen308
+\@cmidla=\count327
+\@cmidlb=\count328
+\@aboverulesep=\dimen309
+\@belowrulesep=\dimen310
+\@thisruleclass=\count329
+\@lastruleclass=\count330
+\@thisrulewidth=\dimen311
+) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.st
+y
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks51
+\minrowclearance=\skip65
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+edecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen312
+\pgfdecoratedremainingdistance=\dimen313
+\pgfdecoratedinputsegmentcompleteddistance=\dimen314
+\pgfdecoratedinputsegmentremainingdistance=\dimen315
+\pgf@decorate@distancetomove=\dimen316
+\pgf@decorate@repeatstate=\count331
+\pgfdecorationsegmentamplitude=\dimen317
+\pgfdecorationsegmentlength=\dimen318
+)
+\tikz@lib@dec@box=\box79
+))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
+rarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decora
+tions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decora
+tions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
+raryarrows.code.tex
+File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\arrowsize=\dimen319
+))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes
+\pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
@@ -959,14 +1043,6 @@ File: tikzlibraryshapes.symbols.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 File: pgflibraryshapes.symbols.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 ))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes
-\pgflibraryshapes.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
 kz/libraries\tikzlibraryshapes.callouts.code.tex
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes
 \pgflibraryshapes.callouts.code.tex))
@@ -977,48 +1053,290 @@ File: tikzlibraryshapes.multipart.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes
 \pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\pgfnodepartlowerbox=\box77
-\pgfnodeparttwobox=\box78
-\pgfnodepartthreebox=\box79
-\pgfnodepartfourbox=\box80
-\pgfnodeparttwentybox=\box81
-\pgfnodepartnineteenbox=\box82
-\pgfnodeparteighteenbox=\box83
-\pgfnodepartseventeenbox=\box84
-\pgfnodepartsixteenbox=\box85
-\pgfnodepartfifteenbox=\box86
-\pgfnodepartfourteenbox=\box87
-\pgfnodepartthirteenbox=\box88
-\pgfnodeparttwelvebox=\box89
-\pgfnodepartelevenbox=\box90
-\pgfnodeparttenbox=\box91
-\pgfnodepartninebox=\box92
-\pgfnodeparteightbox=\box93
-\pgfnodepartsevenbox=\box94
-\pgfnodepartsixbox=\box95
-\pgfnodepartfivebox=\box96
+\pgfnodepartlowerbox=\box80
+\pgfnodeparttwobox=\box81
+\pgfnodepartthreebox=\box82
+\pgfnodepartfourbox=\box83
+\pgfnodeparttwentybox=\box84
+\pgfnodepartnineteenbox=\box85
+\pgfnodeparteighteenbox=\box86
+\pgfnodepartseventeenbox=\box87
+\pgfnodepartsixteenbox=\box88
+\pgfnodepartfifteenbox=\box89
+\pgfnodepartfourteenbox=\box90
+\pgfnodepartthirteenbox=\box91
+\pgfnodeparttwelvebox=\box92
+\pgfnodepartelevenbox=\box93
+\pgfnodeparttenbox=\box94
+\pgfnodepartninebox=\box95
+\pgfnodeparteightbox=\box96
+\pgfnodepartsevenbox=\box97
+\pgfnodepartsixbox=\box98
+\pgfnodepartfivebox=\box99
 )))
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+kz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@layerbox@background=\box100
+\pgf@layerboxsaved@background=\box101
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box102
+\TP@holdbox=\box103
+\TPHorizModule=\dimen320
+\TPVertModule=\dimen321
+\TP@margin=\dimen322
+\TP@absmargin=\dimen323
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen324
+\TP@ox=\dimen325
+\TP@oy=\dimen326
+\TP@tbargs=\toks52
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/spot\spot.sty
+Package: spot 2011/05/09 v1.1 Spotlight highlighting
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
-raryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+raryfadings.code.tex
+File: pgflibraryfadings.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 ))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tikzsymbols\tikzsymbol
-s.sty
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
-se.sty
+\c@spot@spots=\count332
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/09/12 v3.5b Customizing captions (AR)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
+\captionmargin=\dimen327
+\captionmargin@=\dimen328
+\captionwidth=\dimen329
+\caption@tempdima=\dimen330
+\caption@indent=\dimen331
+\caption@parindent=\dimen332
+\caption@hangindent=\dimen333
+Package caption Info: beamer document class detected.
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer
+.sto
+File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
+ beamer document classes (AR)
+))
+\c@caption@flags=\count333
+\c@continuedfloat=\count334
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+\c@subfigure=\count335
+\c@subtable=\count336
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/ccicons\ccicons.sty
+Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks53
+\XKV@tempa@toks=\toks54
+)
+\XKV@depth=\count337
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count338
+\multirow@dima=\skip67
+\bigstrutjot=\dimen334
+) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/animate\animate.sty
+Package: animate 2020/10/07 PDF & SVG animations from files and inline graphics
+
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count339
+\calc@Bcount=\count340
+\calc@Adimen=\dimen335
+\calc@Bdimen=\dimen336
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count341
+\calc@Cskip=\skip70
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count342
+Package zref Info: New property: abspage on input line 66.
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfbase.sty
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2020-10-05 L3 programming layer (loader) 
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count332
-\l__pdf_internal_box=\box97
+\l__kernel_color_stack_int=\count343
+\l__pdf_internal_box=\box104
 ))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+Package: l3keys2e 2020-10-05 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2020/09/10 v0.44 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count344
+\g_pbs_oc_int=\count345
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count346
+)
+\@anim@box=\box105
+\@anim@measbox=\box106
+\@anim@tmpdima=\dimen337
+\@anim@tmpdimb=\dimen338
+\@anim@num=\count347
+\@anim@curframe=\count348
+\@anim@curframe@zb=\count349
+\@anim@resizeflags=\count350
+\@anim@skipfram=\count351
+\@anim@mulframecnt=\count352
+\@anim@@tmlnfile=\read4
+\@anim@tmpcnt=\count353
+\c@@anim@ltxcnt=\count354
+\@anim@curlayer=\count355
+\@anim@lineno=\count356
+\@anim@curfield=\count357
+\@anim@@resizeflags=\count358
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count359
+\lst@gtempboxa=\box107
+\lst@token=\toks55
+\lst@length=\count360
+\lst@currlwidth=\dimen339
+\lst@column=\count361
+\lst@pos=\count362
+\lst@lostspace=\dimen340
+\lst@width=\dimen341
+\lst@newlines=\count363
+\lst@lineno=\count364
+\lst@maxwidth=\dimen342
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count365
+\lst@skipnumbers=\count366
+\lst@framebox=\box108
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/threeparttable\threepa
+rttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box109
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/picture\picture.sty
+Package: picture 2020-04-22 v1.6 Dimens for picture macros (HO)
+Package picture Info: Calculation method: calc.
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.st
+y
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks56
+\MT@count=\count367
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen343
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count368
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pd
+ftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip71
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cf
+g
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tikzsymbols\tikzsymbol
+s.sty
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
 Package: xparse 2020-10-05 L3 Experimental document command parser
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
@@ -1029,228 +1347,66 @@ X3.
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
-keys2e.sty
-Package: l3keys2e 2020-10-05 LaTeX2e option processing using LaTeX3 keys
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
-raryarrows.code.tex
-File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\arrowsize=\dimen298
-))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
-edecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen299
-\pgfdecoratedremainingdistance=\dimen300
-\pgfdecoratedinputsegmentcompleteddistance=\dimen301
-\pgfdecoratedinputsegmentremainingdistance=\dimen302
-\pgf@decorate@distancetomove=\dimen303
-\pgf@decorate@repeatstate=\count333
-\pgfdecorationsegmentamplitude=\dimen304
-\pgfdecorationsegmentlength=\dimen305
-)
-\tikz@lib@dec@box=\box98
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decora
-tions\pgflibrarydecorations.pathmorphing.code.tex))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-\l__tikzsymbols_Moai_thickness_dim=\dimen306
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarymindmap.code.tex
-File: tikzlibrarymindmap.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarypatterns.code.tex
-File: tikzlibrarypatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
-rarypatterns.code.tex
-File: pgflibrarypatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarydecorations.markings.code.tex
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decora
-tions\pgflibrarydecorations.markings.code.tex))
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarybackgrounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-\pgf@layerbox@background=\box99
-\pgf@layerboxsaved@background=\box100
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/pgf-blur\tikzlibrarysh
-adows.blur.code.tex  v1.02, 2012/12/09
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
-raryfadings.code.tex
-File: pgflibraryfadings.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)))
-\pgfbs@fading@count=\count334
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
-kz/libraries\tikzlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2020/10/01 v3.1.6a (3.1.6a)
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip63
-\multirow@cntb=\count335
-\multirow@dima=\skip64
-\bigstrutjot=\dimen307
-) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen308
-\ar@mcellbox=\box101
-\extrarowheight=\dimen309
-\NC@list=\toks46
-\extratabsurround=\skip65
-\backup@length=\skip66
-\ar@cellbox=\box102
-)
-\TX@col@width=\dimen310
-\TX@old@table=\dimen311
-\TX@old@col=\dimen312
-\TX@target=\dimen313
-\TX@delta=\dimen314
-\TX@cols=\count336
-\TX@ftn=\toks47
+\l__tikzsymbols_Moai_thickness_dim=\dimen344
 )
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
-y
-Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen315
-\lightrulewidth=\dimen316
-\cmidrulewidth=\dimen317
-\belowrulesep=\dimen318
-\belowbottomsep=\dimen319
-\aboverulesep=\dimen320
-\abovetopsep=\dimen321
-\cmidrulesep=\dimen322
-\cmidrulekern=\dimen323
-\defaultaddspace=\dimen324
-\@cmidla=\count337
-\@cmidlb=\count338
-\@aboverulesep=\dimen325
-\@belowrulesep=\dimen326
-\@thisruleclass=\count339
-\@lastruleclass=\count340
-\@thisrulewidth=\dimen327
+) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/beamer\xmpmulti.sty
+\@mpm@count=\count369
 )
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
-y
-Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
- (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count341
-\calc@Bcount=\count342
-\calc@Adimen=\dimen328
-\calc@Bdimen=\dimen329
-\calc@Askip=\skip67
-\calc@Bskip=\skip68
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count343
-\calc@Cskip=\skip69
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen345
+\TX@old@table=\dimen346
+\TX@old@col=\dimen347
+\TX@target=\dimen348
+\TX@delta=\dimen349
+\TX@cols=\count370
+\TX@ftn=\toks57
 )
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
-Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
-)
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count344
-\l_MT_multwidth_dim=\dimen330
-\origjot=\skip70
-\l_MT_shortvdotswithinadjustabove_dim=\dimen331
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen332
-\l_MT_above_intertext_sep=\dimen333
-\l_MT_below_intertext_sep=\dimen334
-\l_MT_above_shortintertext_sep=\dimen335
-\l_MT_below_shortintertext_sep=\dimen336
-\xmathstrut@box=\box103
-\xmathstrut@dim=\dimen337
-)
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
-Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
-\FN@temptoken=\toks48
-\footnotemargin=\dimen338
-\@outputbox@depth=\dimen339
-Package footmisc Info: Declaring symbol style bringhurst on input line 695.
-Package footmisc Info: Declaring symbol style chicago on input line 703.
-Package footmisc Info: Declaring symbol style wiley on input line 712.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+\sympureletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 44.
 
-Package footmisc Info: Declaring symbol style lamport* on input line 743.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
-.
-) (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
-Package: textpos 2020/09/26 v1.10
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldpureletters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+178.
 
-Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
-Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box104
-\TP@holdbox=\box105
-\TPHorizModule=\dimen340
-\TPVertModule=\dimen341
-\TP@margin=\dimen342
-\TP@absmargin=\dimen343
-Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen344
-\TP@ox=\dimen345
-\TP@oy=\dimen346
-\TP@tbargs=\toks49
-TextBlockOrigin set to 0pt x 0pt
-) (epifaniaRasch.aux)
-\openout1 = `epifaniaRasch.aux'.
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(document.aux)
+\openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 178.
+LaTeX Font Info:    ... okay on input line 178.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1260,14 +1416,14 @@ LaTeX Font Info:    ... okay on input line 133.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(14.22636pt, 321.51625pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=321.51625pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1290,33 +1446,25 @@ LaTeX Font Info:    ... okay on input line 133.
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count345
-\scratchdimen=\dimen347
-\scratchbox=\box106
-\nofMPsegments=\count346
-\nofMParguments=\count347
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count348
-\MPscratchDim=\dimen348
-\MPnumerator=\count349
-\makeMPintoPDFobject=\count350
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count371
+\scratchdimen=\dimen350
+\scratchbox=\box110
+\nofMPsegments=\count372
+\nofMParguments=\count373
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count374
+\MPscratchDim=\dimen351
+\MPnumerator=\count375
+\makeMPintoPDFobject=\count376
+\everyMPtoPDFconversion=\toks59
 )
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
-Package hyperref Info: Link coloring OFF on input line 133.
+Package hyperref Info: Link coloring OFF on input line 178.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1328,67 +1476,73 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 tlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count351
+\c@section@level=\count377
 )
-LaTeX Info: Redefining \ref on input line 133.
-LaTeX Info: Redefining \pageref on input line 133.
-LaTeX Info: Redefining \nameref on input line 133.
- (epifaniaRasch.out) (epifaniaRasch.out)
+LaTeX Info: Redefining \ref on input line 178.
+LaTeX Info: Redefining \pageref on input line 178.
+LaTeX Info: Redefining \nameref on input line 178.
+ (document.out) (document.out)
 \@outlinefile=\write5
-\openout5 = `epifaniaRasch.out'.
+\openout5 = `document.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 133.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 178.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 133.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 133.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 133.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 178.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 178.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 178.
+\symnumbers=\mathgroup11
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 178.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-33.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/lmss/m/it on input line 1
+78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-33.
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/m/it on input line 
+178.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 178.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 178.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 178.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 178.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 178.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 178.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 133.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/lmss/b/n --> OT1/lmr/b/n on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmss/b/n --> OT1/lmss/b/n on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/m/n --> OT1/lmss/b/n on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmss/m/it --> OT1/lmss/b/it on input line 178.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/b/n on input line 178.
+LaTeX Font Info:    Redeclaring symbol font `boldpureletters' on input line 178
+.
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `norma
+l'
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/bx/it on input line
+ 178.
+LaTeX Font Info:    Overwriting symbol font `boldpureletters' in version `bold'
+
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/lmss/bx/it on input line
+ 178.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-
 basic-dictionary-English.dict
@@ -1414,293 +1568,436 @@ Dictionary: translator-numbers-dictionary, Language: English
 theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \it@ocap on input line 133.
-LaTeX Info: Redefining \it@ccap on input line 133.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count378
+LaTeX Info: Redefining \microtypecontext on input line 178.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 178.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ (document.nav)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+83.
 
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 
-File italian.ldf warning: 
-italian.ldf    With OT1 encoding guillemets are poorly faked
-italian.ldf    Use T1 encoding
-italian.ldf    or specify a font with command \CaporaliFrom
-italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 133.
+LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <14.4> not available
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 183.
 
-(epifaniaRasch.nav)
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+83.
 
-LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 136.
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+183.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 136
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+183.
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 183.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 183.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 183.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 183
 .
+
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 136
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 183
 .
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 136.
-
-(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1math
-kerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-<unipd.png, id=78, 943.525pt x 949.5475pt>
-File: unipd.png Graphic file (type png)
-<use unipd.png>
-Package pdftex.def Info: unipd.png  used on input line 136.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 183.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 183.
+
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 183.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 183
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 183
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 183
+.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+183.
+
+(C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 183.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 183.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 183
+.
+<img/unipd.png, id=87, 943.525pt x 949.5475pt>
+File: img/unipd.png Graphic file (type png)
+<use img/unipd.png>
+Package pdftex.def Info: img/unipd.png  used on input line 183.
 (pdftex.def)             Requested size: 50.87904pt x 51.2038pt.
-<psicostat.png, id=79, 3635.79607pt x 2727.03926pt>
-File: psicostat.png Graphic file (type png)
-<use psicostat.png>
-Package pdftex.def Info: psicostat.png  used on input line 136.
+<img/psicostat.png, id=88, 3635.79607pt x 2727.03926pt>
+File: img/psicostat.png Graphic file (type png)
+<use img/psicostat.png>
+Package pdftex.def Info: img/psicostat.png  used on input line 183.
 (pdftex.def)             Requested size: 71.12242pt x 53.34557pt.
-<unicatt.png, id=81, 225.84375pt x 225.84375pt>
-File: unicatt.png Graphic file (type png)
-<use unicatt.png>
-Package pdftex.def Info: unicatt.png  used on input line 136.
+<img/unicatt.png, id=90, 225.84375pt x 225.84375pt>
+File: img/unicatt.png Graphic file (type png)
+<use img/unicatt.png>
+Package pdftex.def Info: img/unicatt.png  used on input line 183.
 (pdftex.def)             Requested size: 51.21239pt x 51.21239pt.
- [1
 
-{C:/Users/huawei/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./unipd.png> <
-./psicostat.png
+[1
 
-pdfTeX warning: pdflatex (file ./psicostat.png): large interlaced PNG might cau
-se out of memory (use non-interlaced PNG to fix this)
-> <./unicatt.png>] (epifaniaRasch.toc) [2
+{C:/Users/huawei/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/unipd.pn
+g> <./img/psicostat.png
 
-]
-<bart.png, id=179, 200.75pt x 299.1175pt>
-File: bart.png Graphic file (type png)
-<use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
-<lisa.png, id=180, 583.17876pt x 613.29124pt>
-File: lisa.png Graphic file (type png)
-<use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
- [3
-
- <./bart.png> <./lisa.png>]
-File: bart.png Graphic file (type png)
-<use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
-File: lisa.png Graphic file (type png)
-<use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
-
-[4
+pdfTeX warning: pdflatex (file ./img/psicostat.png): large interlaced PNG might
+ cause out of memory (use non-interlaced PNG to fix this)
+> <./img/unicatt.png>] (document.toc) [2
 
 ]
-File: bart.png Graphic file (type png)
-<use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
-File: lisa.png Graphic file (type png)
-<use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
-(pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
- [5
+<img/cat.jpg, id=202, 224.84pt x 224.84pt>
+File: img/cat.jpg Graphic file (type jpg)
+<use img/cat.jpg>
+Package pdftex.def Info: img/cat.jpg  used on input line 211.
+(pdftex.def)             Requested size: 160.75812pt x 160.7628pt.
+File: img/cat.jpg Graphic file (type jpg)
+<use img/cat.jpg>
+Package pdftex.def Info: img/cat.jpg  used on input line 211.
+(pdftex.def)             Requested size: 160.75812pt x 160.7628pt.
 
-] (epifaniaRasch.toc) [6
 
-]
-<later.jpeg, id=365, 1174.3875pt x 665.48625pt>
-File: later.jpeg Graphic file (type jpg)
-<use later.jpeg>
-Package pdftex.def Info: later.jpeg  used on input line 254.
-(pdftex.def)             Requested size: 153.64493pt x 87.06459pt.
- [7
+LaTeX Font Warning: Font shape `OT1/lmss/bx/sc' undefined
+(Font)              using `OT1/lmss/bx/n' instead on input line 211.
 
- <./later.jpeg>]
-<base.pdf, id=411, 1011.78pt x 614.295pt>
-File: base.pdf Graphic file (type pdf)
-<use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-<lisa.pdf, id=412, 1011.78pt x 614.295pt>
-File: lisa.pdf Graphic file (type pdf)
-<use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-<bart.pdf, id=413, 1011.78pt x 614.295pt>
-File: bart.pdf Graphic file (type pdf)
-<use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
- [8
+[3
 
- <./base.pdf>]
-File: base.pdf Graphic file (type pdf)
-<use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-File: lisa.pdf Graphic file (type pdf)
-<use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-File: bart.pdf Graphic file (type pdf)
-<use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
- [9
-
- <./lisa.pdf>]
-File: base.pdf Graphic file (type pdf)
-<use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-File: lisa.pdf Graphic file (type pdf)
-<use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-File: bart.pdf Graphic file (type pdf)
-<use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
- [10
-
- <./bart.pdf>] (epifaniaRasch.toc) [11
+ <./img/cat.jpg>]
+File: img/cat.jpg Graphic file (type jpg)
+<use img/cat.jpg>
+Package pdftex.def Info: img/cat.jpg  used on input line 211.
+(pdftex.def)             Requested size: 160.75812pt x 160.7628pt.
+File: img/cat.jpg Graphic file (type jpg)
+<use img/cat.jpg>
+Package pdftex.def Info: img/cat.jpg  used on input line 211.
+(pdftex.def)             Requested size: 160.75812pt x 160.7628pt.
+ [4
 
 ]
-<baseGLM.pdf, id=616, 1011.78pt x 614.295pt>
-File: baseGLM.pdf Graphic file (type pdf)
-<use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-<linkGLM.pdf, id=617, 1011.78pt x 614.295pt>
-File: linkGLM.pdf Graphic file (type pdf)
-<use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [12
+
+LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <10.95> not available
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 233.
+
+[5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] (document.toc) [12
+
+] [13
 
 ]
-File: baseGLM.pdf Graphic file (type pdf)
-<use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-File: linkGLM.pdf Graphic file (type pdf)
-<use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [13
+<img/iifs.pdf, id=772, 1011.78pt x 614.295pt>
+File: img/iifs.pdf Graphic file (type pdf)
+<use img/iifs.pdf>
+Package pdftex.def Info: img/iifs.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 340.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 340.
 
- <./baseGLM.pdf>]
-File: baseGLM.pdf Graphic file (type pdf)
-<use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-File: linkGLM.pdf Graphic file (type pdf)
-<use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 340
+.
+<img/tif.pdf, id=773, 1011.78pt x 614.295pt>
+File: img/tif.pdf Graphic file (type pdf)
+<use img/tif.pdf>
+Package pdftex.def Info: img/tif.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 340.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 340.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 340.
 
-[14
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 340.
 
- <./linkGLM.pdf>] (epifaniaRasch.toc) [15
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 340
+.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <7> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 340
+.
+ [14
 
-] [16
-
-] [17
-
-] [18
-
-] [19
+ <./img/iifs.pdf> <./img/tif.pdf>]
+File: img/iifs.pdf Graphic file (type pdf)
+<use img/iifs.pdf>
+Package pdftex.def Info: img/iifs.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+File: img/tif.pdf Graphic file (type pdf)
+<use img/tif.pdf>
+Package pdftex.def Info: img/tif.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+ [15
 
 ]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
+File: img/iifs.pdf Graphic file (type pdf)
+<use img/iifs.pdf>
+Package pdftex.def Info: img/iifs.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+File: img/tif.pdf Graphic file (type pdf)
+<use img/tif.pdf>
+Package pdftex.def Info: img/tif.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+ [16
+
+]
+File: img/iifs.pdf Graphic file (type pdf)
+<use img/iifs.pdf>
+Package pdftex.def Info: img/iifs.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+File: img/tif.pdf Graphic file (type pdf)
+<use img/tif.pdf>
+Package pdftex.def Info: img/tif.pdf  used on input line 340.
+(pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
+ [17
+
+] (document.toc) [18
+
+]
+Overfull \vbox (3.99467pt too high) detected at line 423
  []
 
+[19
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
+]
+Overfull \vbox (3.99467pt too high) detected at line 423
  []
 
 [20
 
 ]
-\g__tikzsymbols_savebox_F_0 g 0 G_10.95_Cat_2_box=\box107
-\g__tikzsymbols_savebox_F_0 g 0 G_10.95_Snowman_2_box=\box108
-\g__tikzsymbols_savebox_F_0 g 0 G_10.95_BasicTree_2_black!80_gray!50_gray!40_le
-af_box=\box109
-\g__tikzsymbols_savebox_F_0 g 0 G_10.95_NiceReapey_2_black!20!white_box=\box110
+Overfull \vbox (3.99467pt too high) detected at line 423
+ []
 
- [21
+[21
 
-] [22
+]
+Overfull \vbox (3.99467pt too high) detected at line 423
+ []
 
-] [23
+[22
 
-] [24
+]
+Overfull \vbox (3.99467pt too high) detected at line 423
+ []
 
-] (epifaniaRasch.toc) [25
+[23
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 458.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 458.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 458
+.
+ [24
+
+] [25
 
 ] [26
 
-]
-<rasch.jpg, id=1308, 191.71625pt x 264.99pt>
-File: rasch.jpg Graphic file (type jpg)
-<use rasch.jpg>
-Package pdftex.def Info: rasch.jpg  used on input line 418.
-(pdftex.def)             Requested size: 153.64493pt x 212.38045pt.
- [27
+] [27
 
- <./rasch.jpg>]
+] [28
+
+] [29
+
+] [30
+
+]
+<eip.pdf, id=1666, 1011.78pt x 614.295pt>
+File: eip.pdf Graphic file (type pdf)
+<use eip.pdf>
+Package pdftex.def Info: eip.pdf  used on input line 494.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+<latent.pdf, id=1667, 1011.78pt x 614.295pt>
+File: latent.pdf Graphic file (type pdf)
+<use latent.pdf>
+Package pdftex.def Info: latent.pdf  used on input line 494.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+ [31
+
+ <./eip.pdf>]
+File: eip.pdf Graphic file (type pdf)
+<use eip.pdf>
+Package pdftex.def Info: eip.pdf  used on input line 494.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+File: latent.pdf Graphic file (type pdf)
+<use latent.pdf>
+Package pdftex.def Info: latent.pdf  used on input line 494.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+ [32
+
+ <./latent.pdf>]
+(document.toc) [33
+
+] [34
+
+] [35
+
+]
+<img/info.pdf, id=1936, 1011.78pt x 614.295pt>
+File: img/info.pdf Graphic file (type pdf)
+<use img/info.pdf>
+Package pdftex.def Info: img/info.pdf  used on input line 545.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+ [36
+
+ <./img/info.pdf>]
+<img/infoDetails.pdf, id=1993, 1011.78pt x 614.295pt>
+File: img/infoDetails.pdf Graphic file (type pdf)
+<use img/infoDetails.pdf>
+Package pdftex.def Info: img/infoDetails.pdf  used on input line 553.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+ [37
+
+ <./img/infoDetails.pdf>]
+<img/BIAS.pdf, id=2052, 1011.78pt x 614.295pt>
+File: img/BIAS.pdf Graphic file (type pdf)
+<use img/BIAS.pdf>
+Package pdftex.def Info: img/BIAS.pdf  used on input line 561.
+(pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
+ [38
+
+ <./img/BIAS.pdf>] (document.toc) [39
+
+] [40
+
+] [41
+
+] [42
+
+]
 \tf@nav=\write6
-\openout6 = `epifaniaRasch.nav'.
+\openout6 = `document.nav'.
 
 \tf@toc=\write7
-\openout7 = `epifaniaRasch.toc'.
+\openout7 = `document.toc'.
 
 \tf@snm=\write8
-\openout8 = `epifaniaRasch.snm'.
+\openout8 = `document.snm'.
+
+ (document.aux)
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: F86F6B2D9AE141235B2FECE902A67AEE;302.
 
 
-(epifaniaRasch.aux)
-Package rerunfilecheck Info: File `epifaniaRasch.out' has not changed.
-(rerunfilecheck)             Checksum: 81E746D16B956EA3345AB2EDC3779129;233.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 28651 strings out of 480236
- 617165 string characters out of 2880084
- 1312948 words of memory out of 3000000
- 44446 multiletter control sequences out of 15000+200000
- 548106 words of font info for 75 fonts, out of 3000000 for 9000
+ 32151 strings out of 480236
+ 669042 string characters out of 2880084
+ 1113138 words of memory out of 3000000
+ 47751 multiletter control sequences out of 15000+200000
+ 666735 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,25n,112p,465b,2791s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/huawei/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Use
-rs/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
-.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huawei/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on epifaniaRasch.pdf (27 pages, 2726918 bytes).
+ 111i,19n,112p,447b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc
+}{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.en
+c}{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
+nc}{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.
+enc}{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc
+}{C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}
+<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pf
+b><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.p
+fb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.
+pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12
+.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9
+.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss1
+0.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss
+12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
+s8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
+s9.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
+sbx10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmsso10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmsso8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmsso9.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/lm/lmsy10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/lm/lmsy8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/lm/lmtt10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/lm/lmtt12.pfb>
+Output written on document.pdf (42 pages, 2107994 bytes).
 PDF statistics:
- 1394 PDF objects out of 1440 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2375 PDF objects out of 2487 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 36092 words of extra memory for PDF output out of 42996 (max. 10000000)
 
