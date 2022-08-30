@@ -39,7 +39,16 @@
 \usepackage{amsmath}
 \usepackage[symbol]{footmisc}
 
-%\usetikzlibrary{arrows,shapes}
+\tikzset{type1/.style={circle, fill=blue},
+	type2/.style={circle, fill=red},
+	type3/.style={circle, fill=olive},
+	type4/.style={circle, fill=cyan},
+	type5/.style={circle, fill=giallo},
+	type6/.style={circle, fill=blu},
+	info/.style = {rectangle, rounded corners, minimum width=7.5cm, minimum height=10cm, text centered, draw=white,  text width=5.5cm},
+	stat/.style = {rectangle, rounded corners, minimum height=10cm, text width=10.5cm}
+}
+
 \usepackage[absolute,overlay]{textpos}
 \newcommand\Factor{1.2}
 
@@ -316,21 +325,32 @@ P(X_{vi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 \end{frame}
 
 \begin{frame}
-	\begin{itemize}
-		\item \textbf{\textcolor{template}{Linearity of the scores}}
-		\begin{quote}
-			Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
-		\end{quote}
-		\item \textbf{\textcolor{template}{Comparison invariance}}
-		\begin{quote}
-			Respondents can be compared between each other without considering the items....and vice versa!
-		\end{quote}
-	\large
-		\item \textbf{\textcolor{template}{Local independence}}
-		\begin{quote}
-			Given the person $\rightarrow$ The responses to the items are independent
-		\end{quote}
-	\end{itemize}
+%	\begin{tikzpicture}
+%	\node (pop) [info]  {
+%		\begin{itemize}
+%		\item \textbf{\textcolor{template}{Linearity of the scores}}
+%		\begin{quote}
+%			Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
+%		\end{quote}
+%		\item \textbf{\textcolor{template}{Comparison invariance}}
+%		\begin{quote}
+%			Respondents can be compared between each other without considering the items....and vice versa!
+%		\end{quote}
+%		\large
+%		\item \textbf{\textcolor{template}{Local independence}}
+%		\begin{quote}
+%			Given the person $\rightarrow$ The responses to the items are independent
+%		\end{quote}
+%\end{itemize}};
+%	\end{tikzpicture}
+
+\begin{tikzpicture}
+	\node (first) [stat] {\textbf{\textcolor{template}{Linearity of the scores}}};
+ 	\node (second) [stat, below of=first] {\textbf{\textcolor{template}{Comparison invariance}}};
+ 	 	\node (third) [stat, below of=second] {\textbf{\textcolor{template}{Local independence}}};
+
+\end{tikzpicture}
+
 \end{frame}
 
 \begin{frame}
@@ -382,7 +402,7 @@ P(X_{vi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 
 	
 	{                                     %new code: create a group
-		\setlength{\leftmargini}{0cm}         %new code: set margin length to 0 
+		\setlength{\leftmargini}{0cm}         %
 	
 \begin{itemize}
 		\large

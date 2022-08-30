@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  29 AUG 2022 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  30 AUG 2022 13:53
 entering extended mode
 **./epifaniaRasch.tex
 (epifaniaRasch.tex
@@ -1235,22 +1235,22 @@ TextBlockOrigin set to 0pt x 0pt
 ) (epifaniaRasch.aux)
 \openout1 = `epifaniaRasch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
-LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1316,7 +1316,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
-Package hyperref Info: Link coloring OFF on input line 133.
+Package hyperref Info: Link coloring OFF on input line 142.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1330,65 +1330,65 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count351
 )
-LaTeX Info: Redefining \ref on input line 133.
-LaTeX Info: Redefining \pageref on input line 133.
-LaTeX Info: Redefining \nameref on input line 133.
+LaTeX Info: Redefining \ref on input line 142.
+LaTeX Info: Redefining \pageref on input line 142.
+LaTeX Info: Redefining \nameref on input line 142.
  (epifaniaRasch.out) (epifaniaRasch.out)
 \@outlinefile=\write5
 \openout5 = `epifaniaRasch.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 133.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 142.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 133.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 133.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 133.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 133.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 133.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 142.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 142.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 133.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 133.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 133.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 133.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 133.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 142.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 133.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 133.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 142.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 142.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-33.
+42.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-33.
+42.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 133.
+ut line 142.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-
 basic-dictionary-English.dict
@@ -1414,8 +1414,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \it@ocap on input line 133.
-LaTeX Info: Redefining \it@ccap on input line 133.
+LaTeX Info: Redefining \it@ocap on input line 142.
+LaTeX Info: Redefining \it@ccap on input line 142.
 
 
 File italian.ldf warning: 
@@ -1423,26 +1423,26 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 133.
+italian.ldf    on input line 142.
 
 (epifaniaRasch.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
-(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 136.
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 145.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 136
+LaTeX Font Info:    Trying to load font information for U+msa on input line 145
 .
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 136
+LaTeX Font Info:    Trying to load font information for U+msb on input line 145
 .
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 136.
+ut line 145.
 
 (C:\Users\huawei\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1math
 kerncmss.fd
@@ -1452,17 +1452,17 @@ thkerncmss.
 <unipd.png, id=78, 943.525pt x 949.5475pt>
 File: unipd.png Graphic file (type png)
 <use unipd.png>
-Package pdftex.def Info: unipd.png  used on input line 136.
+Package pdftex.def Info: unipd.png  used on input line 145.
 (pdftex.def)             Requested size: 50.87904pt x 51.2038pt.
 <psicostat.png, id=79, 3635.79607pt x 2727.03926pt>
 File: psicostat.png Graphic file (type png)
 <use psicostat.png>
-Package pdftex.def Info: psicostat.png  used on input line 136.
+Package pdftex.def Info: psicostat.png  used on input line 145.
 (pdftex.def)             Requested size: 71.12242pt x 53.34557pt.
 <unicatt.png, id=81, 225.84375pt x 225.84375pt>
 File: unicatt.png Graphic file (type png)
 <use unicatt.png>
-Package pdftex.def Info: unicatt.png  used on input line 136.
+Package pdftex.def Info: unicatt.png  used on input line 145.
 (pdftex.def)             Requested size: 51.21239pt x 51.21239pt.
  [1
 
@@ -1477,23 +1477,23 @@ se out of memory (use non-interlaced PNG to fix this)
 <bart.png, id=179, 200.75pt x 299.1175pt>
 File: bart.png Graphic file (type png)
 <use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
+Package pdftex.def Info: bart.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
 <lisa.png, id=180, 583.17876pt x 613.29124pt>
 File: lisa.png Graphic file (type png)
 <use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
+Package pdftex.def Info: lisa.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
  [3
 
  <./bart.png> <./lisa.png>]
 File: bart.png Graphic file (type png)
 <use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
+Package pdftex.def Info: bart.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
 File: lisa.png Graphic file (type png)
 <use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
+Package pdftex.def Info: lisa.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
 
 [4
@@ -1501,11 +1501,11 @@ Package pdftex.def Info: lisa.png  used on input line 231.
 ]
 File: bart.png Graphic file (type png)
 <use bart.png>
-Package pdftex.def Info: bart.png  used on input line 231.
+Package pdftex.def Info: bart.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
 File: lisa.png Graphic file (type png)
 <use lisa.png>
-Package pdftex.def Info: lisa.png  used on input line 231.
+Package pdftex.def Info: lisa.png  used on input line 240.
 (pdftex.def)             Requested size: 61.45703pt x 64.62674pt.
  [5
 
@@ -1515,7 +1515,7 @@ Package pdftex.def Info: lisa.png  used on input line 231.
 <later.jpeg, id=365, 1174.3875pt x 665.48625pt>
 File: later.jpeg Graphic file (type jpg)
 <use later.jpeg>
-Package pdftex.def Info: later.jpeg  used on input line 254.
+Package pdftex.def Info: later.jpeg  used on input line 263.
 (pdftex.def)             Requested size: 153.64493pt x 87.06459pt.
  [7
 
@@ -1523,47 +1523,47 @@ Package pdftex.def Info: later.jpeg  used on input line 254.
 <base.pdf, id=411, 1011.78pt x 614.295pt>
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
+Package pdftex.def Info: base.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 <lisa.pdf, id=412, 1011.78pt x 614.295pt>
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
+Package pdftex.def Info: lisa.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 <bart.pdf, id=413, 1011.78pt x 614.295pt>
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
+Package pdftex.def Info: bart.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [8
 
  <./base.pdf>]
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
+Package pdftex.def Info: base.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
+Package pdftex.def Info: lisa.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
+Package pdftex.def Info: bart.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [9
 
  <./lisa.pdf>]
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 264.
+Package pdftex.def Info: base.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 264.
+Package pdftex.def Info: lisa.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 264.
+Package pdftex.def Info: bart.pdf  used on input line 273.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [10
 
@@ -1573,34 +1573,34 @@ Package pdftex.def Info: bart.pdf  used on input line 264.
 <baseGLM.pdf, id=616, 1011.78pt x 614.295pt>
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
+Package pdftex.def Info: baseGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 <linkGLM.pdf, id=617, 1011.78pt x 614.295pt>
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
+Package pdftex.def Info: linkGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
  [12
 
 ]
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
+Package pdftex.def Info: baseGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
+Package pdftex.def Info: linkGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
  [13
 
  <./baseGLM.pdf>]
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 294.
+Package pdftex.def Info: baseGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 294.
+Package pdftex.def Info: linkGLM.pdf  used on input line 303.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 
 [14
@@ -1615,22 +1615,7 @@ Package pdftex.def Info: linkGLM.pdf  used on input line 294.
 
 ] [19
 
-]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 334--334
-[][][][][][][]  
- []
-
-[20
+] [20
 
 ]
 \g__tikzsymbols_savebox_F_0 g 0 G_10.95_Cat_2_box=\box107
@@ -1641,7 +1626,8 @@ af_box=\box109
 
  [21
 
-] [22
+]
+[22
 
 ] [23
 
@@ -1652,10 +1638,10 @@ af_box=\box109
 ] [26
 
 ]
-<rasch.jpg, id=1308, 191.71625pt x 264.99pt>
+<rasch.jpg, id=1306, 191.71625pt x 264.99pt>
 File: rasch.jpg Graphic file (type jpg)
 <use rasch.jpg>
-Package pdftex.def Info: rasch.jpg  used on input line 418.
+Package pdftex.def Info: rasch.jpg  used on input line 438.
 (pdftex.def)             Requested size: 153.64493pt x 212.38045pt.
  [27
 
@@ -1676,10 +1662,10 @@ Package rerunfilecheck Info: File `epifaniaRasch.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28651 strings out of 480236
- 617165 string characters out of 2880084
- 1312948 words of memory out of 3000000
- 44446 multiletter control sequences out of 15000+200000
- 548106 words of font info for 75 fonts, out of 3000000 for 9000
+ 617075 string characters out of 2880084
+ 1314380 words of memory out of 3000000
+ 44448 multiletter control sequences out of 15000+200000
+ 547097 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,25n,112p,465b,2791s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1693,14 +1679,13 @@ ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei
 rs/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
 .pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huawei/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on epifaniaRasch.pdf (27 pages, 2726918 bytes).
+ic/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huawei/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on epifaniaRasch.pdf (27 pages, 2714164 bytes).
 PDF statistics:
- 1394 PDF objects out of 1440 (max. 8388607)
+ 1388 PDF objects out of 1440 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
  245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
