@@ -1,7 +1,7 @@
 \documentclass{beamer} %
-%\usetheme{Montpellier}       % or try default, 
+\usetheme{Montpellier}       % or try default, 
 %  \setbeamertemplate{navigation symbols}{}
-\usetheme[compressed]{Singapore}
+%\usetheme[compressed]{Singapore}
 \useinnertheme{circles}
 %\useoutertheme{miniframes}
 \setbeamertemplate{caption}[numbered]
@@ -52,7 +52,8 @@
 \setbeamersize{text margin left=5mm,text margin right=10mm}
 \setbeamerfont{subtitle}{size=\large, series=\bfseries}
 %\definecolor{template}{RGB}{54, 114, 89}
-\definecolor{template}{RGB}{181, 18, 27}
+%\definecolor{template}{RGB}{181, 18, 27}
+\definecolor{template}{RGB}{70, 130, 180}
 % Per il tema Montpellier
 \setbeamercolor{separation line}{bg=template}
 \setbeamercolor{title in head/foot}{bg=background, fg=template}
@@ -70,11 +71,11 @@
 \setbeamercolor{frametitle}{fg=template, bg=background}
 %\setbeamercolor{section in head/foot}{bg=template, fg=template!20}
 %\setbeamercolor{subsection in head/foot}{bg=template!20, fg=template}
-\setbeamercolor{author in head/foot}{bg=template, fg=template!20}
-\setbeamercolor{date in head/foot}{bg=template, fg=white}
-\setbeamercolor{page number in head/foot}{bg=template, fg=white}
-\setbeamercolor{title in head/foot}{fg=template}
-\setbeamercolor*{item}{fg=template}
+%\setbeamercolor{author in head/foot}{bg=template, fg=template!20}
+%\setbeamercolor{date in head/foot}{bg=template, fg=white}
+%\setbeamercolor{page number in head/foot}{bg=template, fg=white}
+%\setbeamercolor{title in head/foot}{fg=template}
+%\setbeamercolor*{item}{fg=template}
 \setbeamertemplate{frametitle}[default][center]
 \setbeamercolor{title}{fg=template}
 \definecolor{highlight}{RGB}{54, 114, 89}
@@ -161,6 +162,12 @@
 		\tableofcontents[currentsection,currentsubsection]
 	\end{frame}
 }  
+\AtBeginSubsection[]
+{
+	\begin{frame}
+		\tableofcontents[currentsection,currentsubsection]
+	\end{frame}
+}  
 
 \title[Don't say CAT]{Don't say CAT: \\ New Item Response Theory approaches for developing short test forms}
 \date[AIP 2022]{XXX Annual Conference of the Italian Psychology Association (AIP)}
@@ -212,18 +219,18 @@
 
 \begin{frame}{Item Response Theory and short test forms}
 
-\textsc{\textcolor{template}{Adaptive short forms}}: \emph{Ad-hoc} tests for each person \textcolor{template}{$\rightarrow$} The information is maximized for each level of $\theta$ (i.e., each respondent) \textcolor{template}{$\rightarrow$} (\textcolor{template}{\textbf{CAT}}: Computerized Adaptive Testing)
-		
-		\onslide<3->
-		\begin{alertblock}{Issue}
-			
-		Different short test forms for each respondent $\rightarrow$ Potential fairness issues in assessments for recruitment
-		\end{alertblock}
+\textsc{\textcolor{template}{Adaptive short forms}}: \emph{Ad-hoc} tests for each person \textcolor{template}{$\rightarrow$} The information is maximized for each level of $\theta$ (i.e., for each respondent) \textcolor{template}{$\rightarrow$} (\textcolor{template}{\textbf{CAT}}: Computerized Adaptive Testing)
 		
 		\onslide<2->
-\textcolor{template}{\textsc{Static short forms}}: Static tests equal for all respondents \textcolor{template}{$\rightarrow$} the information is maximized across $\theta$ levels (i.e., across all respondents)
+		\begin{alertblock}{Issue}
+			
+		Different short test forms for each respondent $\rightarrow$ Potential fairness issues in assessments, e.g. for recruitment
+		\end{alertblock}
 		
-		\onslide<4->
+		\onslide<1->
+\textcolor{template}{\textsc{Static short forms}}: Static tests equal for all respondents \textcolor{template}{$\rightarrow$} The information is maximized across $\theta$ levels (i.e., across all respondents)
+		
+		\onslide<3->
 		\begin{alertblock}{Issue}
 		
 		Not being tailored to any $\theta$ level of interest \textcolor{template}{$\rightarrow$} Potentially more items are needed to  cover a wide range of $\theta$s
@@ -272,13 +279,14 @@
 
 \section[IRT and Information Functions]{Item Response Theory and information functions}
 
+\subsection*{2-PL Model}
 
 
-\begin{frame}{Item Response Theory}{2-PL}
+\begin{frame}{Item Response Theory}{2-PL Model}
 
-				\begin{equation}\label{eq:2pl}
-				P(x_{ps} = 1|\theta_p, b_s, a_s) = \frac{exp[a_s(\theta_p - b_s)]}{1 + exp[a_s(\theta_p - b_s)]}
-			\end{equation}
+				\begin{equation*}\label{eq:2pl}
+				P(x_{ps} = 1|\theta_p, b_j, a_j) = \frac{exp[a_j(\theta_p - b_j)]}{1 + exp[a_j(\theta_p - b_j)]}
+			\end{equation*}
 		\vspace{3mm}
 			where: 
 		
@@ -286,18 +294,19 @@
 			
 				\vspace{1.5mm}
 				
-			$\theta_p$: Ability of respondent's $p$
+			$\theta_p$: Ability of respondent $p$
 			
 				\vspace{1.5mm}
-			$b_s$: Difficulty of item $s$
+			$b_j$: Difficulty of item $s$
 			
 				\vspace{1.5mm}
-			$a_s$: Discrimination of item $s$
+			$a_j$: Discrimination of item $s$
 
 
 
 \end{frame}
 
+\subsection*{Information functions}
 \begin{frame}{Information functions}
 	\vspace*{-5mm}
 	\begin{columns}[T]
@@ -305,9 +314,9 @@
 				\begin{center}
 				Item Information Function
 			\end{center}
-			\begin{equation}\label{eq:IIF}
-			\mathit{IIF}_s = a_s^2[P(\theta)(1-P(\theta))]
-		\end{equation}
+			\begin{equation*}\label{eq:IIF}
+			\mathit{IIF}_j = a_j^2[P(\theta)(1-P(\theta))]
+		\end{equation*}
 	\pause
 	\vspace*{-4mm}
 	\begin{figure}
@@ -323,9 +332,9 @@
 	\begin{center}
 		Test Information Function
 	\end{center}
-	\begin{equation}\label{eq:TIF}
-	\mathit{TIF} = \displaystyle \sum_{s=1}^{S} \mathit{IIF}_s
-\end{equation}
+	\begin{equation*}\label{eq:TIF}
+	\mathit{TIF} = \displaystyle \sum_{s=1}^{S} \mathit{IIF}_j
+\end{equation*}
 \vspace*{-6mm}
 \pause
 \begin{figure}
@@ -341,7 +350,7 @@
 
 \section[Short form procedures]{IRT procedures for shortening tests}
 
-%\subsection*{Benchmark procedure}
+\subsection{Benchmark procedure}
 
 \begin{frame}{Benchmark procedure}
 	
@@ -351,10 +360,9 @@
 		\begin{quote}
 		e.g.:	3-item short form from 10-item full-length test
 		\end{quote}
-	\vspace*{-2mm}
+	\vspace*{-5mm}
 \begin{overprint}
 	\onslide<2>
-	
 	\vspace{2mm}
 	\begin{table}
 \begin{tabular}{l  d{3.2}d{3.2}d{3.2}}
@@ -376,26 +384,7 @@
 	\end{table}
 
 \onslide<3>
-	\begin{table}
-	\begin{tabular}{l  d{3.2}d{3.2}d{3.2}}
-		\toprule
-		item & b & a & IIF \\
-		\midrule
-4	& 	2.12	 & 	1.98	 & 	0.24	\\
-8	& 	-2.51	 & 	1.68	 & 	0.19	\\
-6	& 	-2.28	 & 	1.62	 & 	0.19	\\
-2	& 	0.50	 & 	1.19	 & 	0.15	\\
-1	& 	-0.67	 & 	0.71	 & 	0.08	\\
-7	& 	0.64	 & 	0.50	 & 	0.05	\\
-9	& 	-0.66	 & 	0.44	 & 	0.04	\\
-5	& 	1.72	 & 	0.39	 & 	0.03	\\
-10	& 	0.72	 & 	0.33	 & 	0.02	\\
-3	& 	-2.43	 & 	0.25	 & 	0.01	\\
-\bottomrule
-		
-	\end{tabular}
-\end{table}
-\onslide<4-5>
+	\vspace{2mm}
 	\begin{table}
 	\begin{tabular}{l  d{3.2}d{3.2}d{3.2}}
 		\toprule
@@ -424,34 +413,58 @@
 
 
 
-%\subsection*{Procedures based on $\theta$ targets}
+\subsection{Procedures based on $\theta$ targets}
 
-\begin{frame}{Procedures based on $\theta$ targets}
+\begin{frame}{$\theta$-target procedures}
 	Selected items $\rightarrow$ items with highest \emph{IIF}s in respect to $\theta$ targets ($\theta'$) 
 	
 	\begin{quote}
 		e.g.:	3-item short form from 10-item full-length test
 	\end{quote}
-	\vspace*{-1mm}
-	\begin{table}
+			\vspace*{-5mm}
+	\begin{overprint}
+	\onslide<1>
+		\begin{table}
 		\begin{tabular}{l l l l }
 			\toprule
-			& \multicolumn{1}{c}{\textcolor<2->{orangered2}{$\theta_1'$}} & \multicolumn{1}{c}{\textcolor<6->{springgreen}{$\theta_2'$}} & \multicolumn{1}{c}{ \textcolor<4->{diff}{$\theta_3'$}} \\
-			item	& \textcolor<2->{orangered2}{$	-2.67	$} & $	0.01	$ & \textcolor<4->{diff}{$	2.67	$} \\
+			& \multicolumn{1}{c}{$\theta_1'$} & \multicolumn{1}{c}{$\theta_2'$} & \multicolumn{1}{c}{ $\theta_3'$} \\
+			item	& $	-2.67	$ & $	0.01	$ & $	2.67	$ \\
 			\midrule
-			1	& \textcolor<3->{black!30}{$	0.04	$} & \textcolor<7->{black!30}{$	0.12	$} & 	\textcolor<5->{black!30}{$	0.08	$} \\
-			\textcolor<7->{black!30 }{2}	& \textcolor<3->{black!30}{$	0.09	$} & \textcolor<6->{springgreen}{$	0.33	$} & 	\textcolor<5->{black!30}{$	0.03	$} \\
-			3	& \textcolor<3->{black!30}{$	0.01	$} & \textcolor<7->{black!30}{$	0.01	$} & 	\textcolor<5->{black!30}{$	0.02	$} \\
-			\textcolor<3->{black!30}{4}	& \textcolor<2->{orangered2}{$	0.73	$} & \textcolor<3->{black!30}{$	0.06	$} & \textcolor<3->{black!30}{$	0.01	$} \\
-			5	& \textcolor<3->{black!30}{$	0.04	$} & \textcolor<7->{black!30}{$	0.03	$} & 	\textcolor<5->{black!30}{$	0.02	$} \\
-			6	& \textcolor<3->{black!30}{$	0.01	$} & \textcolor<7->{black!30}{$	0.06	$} & 	\textcolor<5->{black!30}{$	0.59	$} \\
-			7	& \textcolor<3->{black!30}{$	0.05	$} & \textcolor<7->{black!30}{$	0.06	$} & 	\textcolor<5->{black!30}{$	0.03	$} \\
-			\textcolor<5->{black!30}{8}	& \textcolor<3->{black!30}{$	0.01	$} & 	\textcolor<5->{black!30}{$	0.04	$} & \textcolor<4->{diff}{$	0.69	$} \\
-			9	& \textcolor<3->{black!30}{$	0.03	$} & \textcolor<7->{black!30}{$	0.05	$} & 	\textcolor<5->{black!30}{$	0.04	$} \\
-			10	& \textcolor<3->{black!30}{$	0.02	$} & \textcolor<7->{black!30}{$	0.03	$} & 	\textcolor<5->{black!30}{$	0.02	$} \\
+			1	& & & \\
+		2	&  & & 	\\
+			3	&  &  &  \\
+			4&  & & \\
+			5	&  & & 	 \\
+			6	&  & &  \\
+			7	& & &  \\
+			8	& & &  \\
+			9	& &  &  \\
+			10	&& & 	 \\
 			\bottomrule
 		\end{tabular}
 	\end{table}
+\onslide<2->
+	\begin{table}
+	\begin{tabular}{l l l l }
+		\toprule
+		& \multicolumn{1}{c}{\textcolor<3->{orangered2}{$\theta_1'$}} & \multicolumn{1}{c}{\textcolor<7->{springgreen}{$\theta_2'$}} & \multicolumn{1}{c}{ \textcolor<5->{diff}{$\theta_3'$}} \\
+		item	& \textcolor<3->{orangered2}{$	-2.67	$} & \textcolor<7->{springgreen}{$	0.01	$} & \textcolor<5->{diff}{$	2.67	$} \\
+		\midrule
+		1	& \textcolor<4->{black!30}{$	0.04	$} & \textcolor<8->{black!30}{$	0.12	$} & 	\textcolor<6->{black!30}{$	0.08	$} \\
+		\textcolor<8->{black!30 }{2}	& \textcolor<4->{black!30}{$	0.09	$} & \textcolor<7->{springgreen}{$	0.33	$} & 	\textcolor<6->{black!30}{$	0.03	$} \\
+		3	& \textcolor<4->{black!30}{$	0.01	$} & \textcolor<8->{black!30}{$	0.01	$} & 	\textcolor<6->{black!30}{$	0.02	$} \\
+		\textcolor<4->{black!30}{4}	& \textcolor<3->{orangered2}{$	0.73	$} & \textcolor<4->{black!30}{$	0.06	$} & \textcolor<4->{black!30}{$	0.01	$} \\
+		5	& \textcolor<4->{black!30}{$	0.04	$} & \textcolor<8->{black!30}{$	0.03	$} & 	\textcolor<6->{black!30}{$	0.02	$} \\
+		6	& \textcolor<4->{black!30}{$	0.01	$} & \textcolor<8->{black!30}{$	0.06	$} & 	\textcolor<6->{black!30}{$	0.59	$} \\
+		7	& \textcolor<4->{black!30}{$	0.05	$} & \textcolor<8->{black!30}{$	0.06	$} & 	\textcolor<6->{black!30}{$	0.03	$} \\
+		\textcolor<6->{black!30}{8}	& \textcolor<4->{black!30}{$	0.01	$} & 	\textcolor<6->{black!30}{$	0.04	$} & \textcolor<5->{diff}{$	0.69	$} \\
+		9	& \textcolor<4->{black!30}{$	0.03	$} & \textcolor<8->{black!30}{$	0.05	$} & 	\textcolor<6->{black!30}{$	0.04	$} \\
+		10	& \textcolor<4->{black!30}{$	0.02	$} & \textcolor<8->{black!30}{$	0.03	$} & 	\textcolor<6->{black!30}{$	0.02	$} \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+	\end{overprint}
 
 
 
@@ -462,27 +475,27 @@
 \begin{frame}{Segmenting the latent trait}
 	\vspace*{-3mm}
 	\begin{overprint}
-		\onslide<1>
-		\begin{figure}
-			\centering
-			\includegraphics[width=.90\linewidth]{eip}
-		\end{figure}
 		\onslide<2>
 		\begin{figure}
 			\centering
-			\includegraphics[width=.90\linewidth]{latent}
+			\includegraphics[width=.80\linewidth]{eip}
+		\end{figure}
+		\onslide<3>
+		\begin{figure}
+			\centering
+			\includegraphics[width=.80\linewidth]{latent}
 		\end{figure}
 	\end{overprint}
 
 \begin{columns}[T]
-	\onslide<1->
+	\onslide<2->
 	\begin{column}{.50\linewidth}
 		\begin{center}
 			\textcolor{eip}{Equal Intervals Procedure}\\
 			\small Equal segmentation
 		\end{center}
 	\end{column}
-\onslide<2->
+\onslide<3->
 	\begin{column}{.50\linewidth}
 	\begin{center}
 		\textcolor{uip}{Unequal Intervals Procedure}\\
@@ -500,8 +513,8 @@
 	Comparison between the item selection procedures: 
 	\begin{itemize}
 		\item \textbf{\textcolor{bp}{Benchmark procedure (BP)}}: The $N$ items with the highest \emph{IIF}s are selected from the full-length test
-		\item \textbf{\textcolor{uip}{Unequal Intervals Procedure (UIP)}}:  The $N$ items that mazimize the information for each $\theta'$ obtained by clustering the latent trait are selected 
-		\item \textbf{\textcolor{eip}{Equal Intervals Procedure (EIP)}}: The $N$ items that mazimize the information for each $\theta'$ obtained by dividing the latent trait into equal intervals are selected
+		\item \textbf{\textcolor{eip}{Equal Intervals Procedure (EIP)}}: The $N$ items that maximize the information for each $\theta'$ obtained by dividing the latent trait into equal intervals are selected
+		\item \textbf{\textcolor{uip}{Unequal Intervals Procedure (UIP)}}:  The $N$ items that maximize the information for each $\theta'$ obtained by clustering the latent trait are selected 
 		\item \textbf{\textcolor{rp}{Random Procedure (RP)}}: $N$ items are randomly selected from the full-length tests 
 	\end{itemize}
 \vspace{3mm}

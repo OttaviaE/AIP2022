@@ -11,6 +11,7 @@
 \definecolor{royalblue3}{RGB}{58,95,205}
 \definecolor{giallo}{RGB}{197, 151, 0}
 \definecolor{template}{RGB}{54, 114, 89}
+\definecolor{but}{RGB}{181, 18, 27}
 %\definecolor{template}{RGB}{181, 18, 27}
 \setbeamercolor{section in head/foot}{fg=white, bg=template}
 \setbeamercolor{subsection in head/foot}{fg=template, bg=template!20}
@@ -28,7 +29,7 @@
 \setbeamerfont{section in toc}{series=\bfseries,size=\normalsize}
 \setbeamerfont{title}{family=\scshape}
 \usepackage{tikzsymbols}
-\usetikzlibrary{mindmap,calc,patterns,decorations.pathmorphing,decorations.markings, arrows, shapes.arrows, shapes, backgrounds,positioning,shadows.blur, positioning, fit}
+\usetikzlibrary{mindmap,calc,patterns,decorations.pathmorphing,decorations.markings, arrows, shapes.arrows, shapes, backgrounds,positioning,shadows.blur, positioning, fit, tikzmark}
 \usepackage{multirow}
 \usepackage{tabularx}
 \usepackage{setspace}
@@ -45,8 +46,8 @@
 	type4/.style={circle, fill=cyan},
 	type5/.style={circle, fill=giallo},
 	type6/.style={circle, fill=blu},
-	info/.style = {rectangle, rounded corners, minimum width=7.5cm, minimum height=10cm, text centered, draw=white,  text width=5.5cm},
-	stat/.style = {rectangle, rounded corners, minimum height=10cm, text width=10.5cm}
+	info/.style = {rectangle, rounded corners, minimum width=1.5cm, minimum height=10cm, text centered, draw=white,  text width=5.5cm},
+	stat/.style = {rectangle, minimum width=1.5cm, minimum height=10cm, text justified, draw=white,  text width=5.5cm}
 }
 
 \usepackage[absolute,overlay]{textpos}
@@ -161,7 +162,7 @@
 	\begin{column}{.50\linewidth}
 		\centering \textbf{Q2}
 		\begin{equation*}
-			\dfrac{3}{2} + \dfrac{5}{4} = ?
+			\dfrac{3}{2}x^2 + \dfrac{5}{4}x = ?
 		\end{equation*}
 \end{column}
 \end{columns}
@@ -211,13 +212,14 @@
 	\end{minipage}
 };
 
-\tikzoverlay (lisa1) at (9.2cm,-0.5cm) {%
+\tikzoverlay (lisa1) at (9.2cm,-0.8cm) {%
 	\begin{minipage}{.20\textwidth}
 				\centering
 		$A_\text{Lisa}$
 		
 	\end{minipage}
 };
+\onslide<4->
 \tikzoverlay (eq) at (0.3cm, -1.5cm){
 \begin{minipage}{.30\linewidth}
 	\begin{equation}
@@ -258,7 +260,7 @@ $< 1$ if $A_p < d_i$
 
 \vspace{3mm}
 \begin{equation}
-P(X_{vi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
+P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
 \end{equation}
 \end{frame}
 
@@ -324,32 +326,62 @@ P(X_{vi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 \end{exampleblock} 
 \end{frame}
 
+
+
 \begin{frame}
-%	\begin{tikzpicture}
-%	\node (pop) [info]  {
-%		\begin{itemize}
-%		\item \textbf{\textcolor{template}{Linearity of the scores}}
-%		\begin{quote}
-%			Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
-%		\end{quote}
-%		\item \textbf{\textcolor{template}{Comparison invariance}}
-%		\begin{quote}
-%			Respondents can be compared between each other without considering the items....and vice versa!
-%		\end{quote}
-%		\large
-%		\item \textbf{\textcolor{template}{Local independence}}
-%		\begin{quote}
-%			Given the person $\rightarrow$ The responses to the items are independent
-%		\end{quote}
-%\end{itemize}};
-%	\end{tikzpicture}
-
-\begin{tikzpicture}
-	\node (first) [stat] {\textbf{\textcolor{template}{Linearity of the scores}}};
- 	\node (second) [stat, below of=first] {\textbf{\textcolor{template}{Comparison invariance}}};
- 	 	\node (third) [stat, below of=second] {\textbf{\textcolor{template}{Local independence}}};
-
-\end{tikzpicture}
+	
+	\tikzoverlay (prova) at (-1.5cm,2.5cm) {
+		\begin{overprint}
+		\onslide<1>
+		\begin{tikzpicture}[elli/.style={ellipse,text width=10cm,align=center,
+				minimum height=4cm,inner xsep=-1em,inner ysep=-1em}]
+			\node[elli] (first) {		\begin{itemize}
+					\item \textbf{\textcolor{template}{Linearity of the scores}}
+					\begin{quote}
+						Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
+					\end{quote}
+					\item \textbf{\textcolor{template}{Comparison invariance}}
+					\begin{quote}
+						Respondents can be compared between each other without considering the items....and vice versa!
+					\end{quote}
+					\large
+					\item \textbf{\textcolor{template}{Local independence}}
+					\begin{quote}
+						Given the person $\rightarrow$ The responses to the items are independent 	
+					\end{quote}
+				\end{itemize}
+			};
+		\end{tikzpicture}
+		
+		
+		\onslide<2>
+		\begin{tikzpicture}[
+			elli/.style={ellipse,text width=10cm,align=center,
+				minimum height=4cm,inner xsep=-1em,inner ysep=-1em,draw=template}]
+			\node[elli] (first) {		\begin{itemize}
+					\item \textbf{\textcolor{template}{Linearity of the scores}}
+					\begin{quote}
+						Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
+					\end{quote}
+					\item \textbf{\textcolor{template}{Comparison invariance}}
+					\begin{quote}
+						Respondents can be compared between each other without considering the items....and vice versa!
+					\end{quote}
+					\large
+					\item \textbf{\textcolor{template}{Local independence}}
+					\begin{quote}
+						Given the person $\rightarrow$ The responses to the items are independent 	
+					\end{quote}
+				\end{itemize}
+			};
+		\end{tikzpicture}
+	\end{overprint}
+}; 
+\onslide<2->
+\tikzoverlay (uni) at (-0.5cm,-3.5cm) {
+	\large
+\textcolor{template}{\textbf{Unidimensionality}}
+};
 
 \end{frame}
 
@@ -399,34 +431,67 @@ P(X_{vi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 
 \section{Closing time}
 \begin{frame}
+	
+	\begin{center}
+\Large
+		Think outside of the box!
+	\end{center}
+\vspace{2mm}
+\begin{columns}[T] % align columns
+	\begin{column}{.50\textwidth}
+		\color{template}\rule{\linewidth}{4pt}
+		\begin{center}
+			\large{Yes}
+		\end{center}
+	\normalcolor
+	\onslide<2->
+		Rasch estimates 
+		
+		\onslide<4->
+		\vspace{1.5mm}
+		The sky is the limit
+		
+		\onslide<6->
+			\vspace{1.5mm}
+		Keep it maximal
+	\end{column}%
+	\hfill%
+	\begin{column}{.50\textwidth}
+			\onslide<1->
+		\color{but}\rule{\linewidth}{4pt}
+		\begin{center}
+			\large{But}
+		\end{center}
+	\normalcolor
+	\onslide<3->
+		 Rasch-like parametrization
+		 
+		 \onslide<5->
+		 	\vspace{1.5mm}
+		 Don't over complicate things 
+		 
+		 \onslide<7->
+		 	\vspace{1.5mm}
+		 Keep it minimal
+	\end{column}%
+\end{columns}  
 
 	
-	{                                     %new code: create a group
-		\setlength{\leftmargini}{0cm}         %
-	
-\begin{itemize}
-		\large
-	\item Think outside of the box
-	
-	\vspace{1.5mm}
-	\item Rasch estimates vs. Rasch-like parametrization
-	
-	\vspace{1.5mm}
-	\item The sky is the limit
-	
-	\vspace{1.5mm}
-	\item Don't over complicate things 
-	
-	\vspace{1.5mm}
-	\item Keep it maximal vs. Keep it minimal
-\end{itemize}
-	}                                     
+	\onslide<8>
+	\centering
+	\begin{tikzpicture}
+		\node (img) {\includegraphics[width =.30\linewidth]{pesce}};
+		\draw[red, line width=1.4mm] 
+		(img.south west) -- (img.north east)
+		(img.south east) -- (img.north west);
+	\end{tikzpicture}
+            
 \end{frame}
 
 \begin{frame}[plain]
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.5\linewidth]{rasch}
+		\includegraphics[width=0.5\linewidth]{raschJ}
 	\end{figure}
 	
 	
