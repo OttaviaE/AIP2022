@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  2 SEP 2022 09:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  13 SEP 2022 10:28
 entering extended mode
 **./epifaniaRasch.tex
 (epifaniaRasch.tex
@@ -1458,17 +1458,17 @@ kerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<unipd.png, id=78, 943.525pt x 949.5475pt>
+<unipd.png, id=80, 943.525pt x 949.5475pt>
 File: unipd.png Graphic file (type png)
 <use unipd.png>
 Package pdftex.def Info: unipd.png  used on input line 146.
 (pdftex.def)             Requested size: 50.87904pt x 51.2038pt.
-<psicostat.png, id=79, 3635.79607pt x 2727.03926pt>
+<psicostat.png, id=81, 3635.79607pt x 2727.03926pt>
 File: psicostat.png Graphic file (type png)
 <use psicostat.png>
 Package pdftex.def Info: psicostat.png  used on input line 146.
 (pdftex.def)             Requested size: 71.12242pt x 53.34557pt.
-<unicatt.png, id=81, 225.84375pt x 225.84375pt>
+<unicatt.png, id=83, 225.84375pt x 225.84375pt>
 File: unicatt.png Graphic file (type png)
 <use unicatt.png>
 Package pdftex.def Info: unicatt.png  used on input line 146.
@@ -1483,12 +1483,12 @@ se out of memory (use non-interlaced PNG to fix this)
 > <./unicatt.png>] (epifaniaRasch.toc) [2
 
 ]
-<bart.png, id=179, 200.75pt x 299.1175pt>
+<bart.png, id=185, 200.75pt x 299.1175pt>
 File: bart.png Graphic file (type png)
 <use bart.png>
 Package pdftex.def Info: bart.png  used on input line 242.
 (pdftex.def)             Requested size: 61.45703pt x 91.57072pt.
-<lisa.png, id=180, 583.17876pt x 613.29124pt>
+<lisa.png, id=186, 583.17876pt x 613.29124pt>
 File: lisa.png Graphic file (type png)
 <use lisa.png>
 Package pdftex.def Info: lisa.png  used on input line 242.
@@ -1532,7 +1532,7 @@ Package pdftex.def Info: lisa.png  used on input line 242.
 ] (epifaniaRasch.toc) [7
 
 ]
-<later.jpeg, id=410, 1174.3875pt x 665.48625pt>
+<later.jpeg, id=426, 1174.3875pt x 665.48625pt>
 File: later.jpeg Graphic file (type jpg)
 <use later.jpeg>
 Package pdftex.def Info: later.jpeg  used on input line 265.
@@ -1540,17 +1540,17 @@ Package pdftex.def Info: later.jpeg  used on input line 265.
  [8
 
  <./later.jpeg>]
-<base.pdf, id=455, 1011.78pt x 614.295pt>
+<base.pdf, id=473, 1011.78pt x 614.295pt>
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
 Package pdftex.def Info: base.pdf  used on input line 275.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-<lisa.pdf, id=456, 1011.78pt x 614.295pt>
+<lisa.pdf, id=474, 1011.78pt x 614.295pt>
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
 Package pdftex.def Info: lisa.pdf  used on input line 275.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
-<bart.pdf, id=457, 1011.78pt x 614.295pt>
+<bart.pdf, id=475, 1011.78pt x 614.295pt>
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
 Package pdftex.def Info: bart.pdf  used on input line 275.
@@ -1591,43 +1591,48 @@ Package pdftex.def Info: bart.pdf  used on input line 275.
  <./bart.pdf>] (epifaniaRasch.toc) [12
 
 ]
-<baseGLM.pdf, id=660, 1011.78pt x 614.295pt>
+File: psicostat.png Graphic file (type png)
+<use psicostat.png>
+Package pdftex.def Info: psicostat.png  used on input line 291.
+(pdftex.def)             Requested size: 215.10196pt x 161.32668pt.
+ [13
+
+]
+<baseGLM.pdf, id=732, 1011.78pt x 614.295pt>
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 305.
+Package pdftex.def Info: baseGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-<linkGLM.pdf, id=661, 1011.78pt x 614.295pt>
+<linkGLM.pdf, id=733, 1011.78pt x 614.295pt>
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 305.
+Package pdftex.def Info: linkGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [13
+ [14
 
 ]
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 305.
+Package pdftex.def Info: baseGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 305.
+Package pdftex.def Info: linkGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [14
+ [15
 
  <./baseGLM.pdf>]
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 305.
+Package pdftex.def Info: baseGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 305.
+Package pdftex.def Info: linkGLM.pdf  used on input line 319.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [15
+ [16
 
- <./linkGLM.pdf>] (epifaniaRasch.toc) [16
-
-] [17
+ <./linkGLM.pdf>] (epifaniaRasch.toc) [17
 
 ] [18
 
@@ -1636,88 +1641,91 @@ Package pdftex.def Info: linkGLM.pdf  used on input line 305.
 ] [20
 
 ]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (64.1219pt too wide) in paragraph at lines 386--386
-[][] 
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
-[][][][][][][]  
- []
-
-
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 386--386
-[][] 
- []
-
 [21
 
 ]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (64.1219pt too wide) in paragraph at lines 386--386
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 402--402
 [][] 
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 386--386
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
 [][][][][][][]  
  []
 
 
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 386--386
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 402--402
 [][] 
  []
 
 [22
+
+]
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 402--402
+[][] 
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 402--402
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 402--402
+[][] 
+ []
+
+[23
 
 ]
 \g__tikzsymbols_savebox_F_0 g 0 G_10.95_Cat_2_box=\box107
@@ -1726,83 +1734,91 @@ Overfull \hbox (64.5219pt too wide) in paragraph at lines 386--386
 af_box=\box109
 \g__tikzsymbols_savebox_F_0 g 0 G_10.95_NiceReapey_2_black!20!white_box=\box110
 
- [23
-
-] [24
+ [24
 
 ] [25
 
 ] [26
 
-] (epifaniaRasch.toc) [27
+] [27
+
+] (epifaniaRasch.toc) [28
 
 ]
-<pesce.jpg, id=1353, 483.59393pt x 445.15245pt>
+<pesce.jpg, id=1455, 483.59393pt x 445.15245pt>
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [28
+ [29
 
  <./pesce.jpg>]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [29
+ [30
 
 ]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
 
-[30
+[31
 
 ]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [31
-
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [32
 
 ]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [33
 
 ]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [34
 
 ]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 489.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [35
 
 ]
-<raschJ.jpeg, id=1706, 190.7125pt x 264.99pt>
-File: raschJ.jpeg Graphic file (type jpg)
-<use raschJ.jpeg>
-Package pdftex.def Info: raschJ.jpeg  used on input line 503.
-(pdftex.def)             Requested size: 153.64493pt x 213.49239pt.
+File: pesce.jpg Graphic file (type jpg)
+<use pesce.jpg>
+Package pdftex.def Info: pesce.jpg  used on input line 505.
+(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [36
 
+]
+<raschJ.jpeg, id=1824, 190.7125pt x 264.99pt>
+File: raschJ.jpeg Graphic file (type jpg)
+<use raschJ.jpeg>
+Package pdftex.def Info: raschJ.jpeg  used on input line 519.
+(pdftex.def)             Requested size: 153.64493pt x 213.49239pt.
+ [37
+
  <./raschJ.jpeg>]
+<domande-simposio-word.png, id=1851, 1054.94125pt x 1230.5975pt>
+File: domande-simposio-word.png Graphic file (type png)
+<use domande-simposio-word.png>
+Package pdftex.def Info: domande-simposio-word.png  used on input line 527.
+(pdftex.def)             Requested size: 153.64493pt x 179.21133pt.
+ [38
+
+ <./domande-simposio-word.png>]
 \tf@nav=\write6
 \openout6 = `epifaniaRasch.nav'.
 
@@ -1817,11 +1833,11 @@ Package rerunfilecheck Info: File `epifaniaRasch.out' has not changed.
 (rerunfilecheck)             Checksum: 81E746D16B956EA3345AB2EDC3779129;233.
  ) 
 Here is how much of TeX's memory you used:
- 28941 strings out of 480236
- 623220 string characters out of 2880084
- 1322905 words of memory out of 3000000
- 44714 multiletter control sequences out of 15000+200000
- 548106 words of font info for 75 fonts, out of 3000000 for 9000
+ 28978 strings out of 480236
+ 623890 string characters out of 2880084
+ 1324576 words of memory out of 3000000
+ 44745 multiletter control sequences out of 15000+200000
+ 551521 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,25n,112p,475b,2793s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
@@ -1836,13 +1852,14 @@ rs/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
 .pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huawei/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on epifaniaRasch.pdf (36 pages, 2864126 bytes).
+/type1/public/amsfonts/cm/cmssi17.pfb><C:/Users/huawei/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/hu
+awei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on epifaniaRasch.pdf (38 pages, 2980870 bytes).
 PDF statistics:
- 1796 PDF objects out of 2073 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 250 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1947 PDF objects out of 2073 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 255 words of extra memory for PDF output out of 10000 (max. 10000000)
 

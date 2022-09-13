@@ -260,7 +260,7 @@ $< 1$ if $A_p < d_i$
 
 \vspace{3mm}
 \begin{equation}
-P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
+P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
 \end{equation}
 \end{frame}
 
@@ -276,6 +276,20 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 
 
 \section{Wait...}
+
+\begin{frame}
+\begin{center}
+	* Eureka moment *
+\end{center}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{psicostat}
+\end{figure}
+
+
+\end{frame}
+
 \begin{frame}
 
 \begin{center}
@@ -317,6 +331,7 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 	\end{alertblock}
 
 \onslide<3->
+\vspace{5mm}
 (Generalized) Linear Model: ``Any'' kind of response
 
 \onslide<4->
@@ -333,25 +348,26 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 	\tikzoverlay (prova) at (-1.5cm,2.5cm) {
 		\begin{overprint}
 		\onslide<1>
-		\begin{tikzpicture}[elli/.style={ellipse,text width=10cm,align=center,
-				minimum height=4cm,inner xsep=-1em,inner ysep=-1em}]
-			\node[elli] (first) {		\begin{itemize}
-					\item \textbf{\textcolor{template}{Linearity of the scores}}
-					\begin{quote}
-						Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
-					\end{quote}
-					\item \textbf{\textcolor{template}{Comparison invariance}}
-					\begin{quote}
-						Respondents can be compared between each other without considering the items....and vice versa!
-					\end{quote}
-					\large
-					\item \textbf{\textcolor{template}{Local independence}}
-					\begin{quote}
-						Given the person $\rightarrow$ The responses to the items are independent 	
-					\end{quote}
-				\end{itemize}
-			};
-		\end{tikzpicture}
+		\begin{tikzpicture}[
+		elli/.style={ellipse,text width=10cm,align=center,
+			minimum height=4cm,inner xsep=-1em,inner ysep=-1em,draw=template}]
+		\node[elli] (first) {		\begin{itemize}
+				\item \textbf{\textcolor{template}{Linearity of the scores}}
+				\begin{quote}
+					Logarithm transformation $\rightarrow$ Respondents and items on the same latent trait
+				\end{quote}
+				\item \textbf{\textcolor{template}{Comparison invariance}}
+				\begin{quote}
+					Respondents can be compared between each other without considering the items....and vice versa!
+				\end{quote}
+				\large
+				\item \textbf{\textcolor{template}{Local independence}}
+				\begin{quote}
+					Given the person $\rightarrow$ The responses to the items are independent 	
+				\end{quote}
+			\end{itemize}
+		};
+	\end{tikzpicture}
 		
 		
 		\onslide<2>
@@ -368,7 +384,7 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 						Respondents can be compared between each other without considering the items....and vice versa!
 					\end{quote}
 					\large
-					\item \textbf{\textcolor{template}{Local independence}}
+					\item \LARGE \textbf{\textcolor{template}{Local independence}}
 					\begin{quote}
 						Given the person $\rightarrow$ The responses to the items are independent 	
 					\end{quote}
@@ -377,7 +393,7 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 		\end{tikzpicture}
 	\end{overprint}
 }; 
-\onslide<2->
+\onslide<1>
 \tikzoverlay (uni) at (-0.5cm,-3.5cm) {
 	\large
 \textcolor{template}{\textbf{Unidimensionality}}
@@ -389,7 +405,7 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 	\centering
 			\begin{tabular}{l l l l l l l l}
 		& \multicolumn{3}{c}{Condition A} & & \multicolumn{3}{c}{Condition B}\\
-		Francesco & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} & & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} \\
+		Giorgio & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} & & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} \\
 		Giulia & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} & & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} \\
 		Jessica & \Cat[2] & \Snowman[2] & \BasicTree[2]{black!80}{gray!50}{gray!40}{leaf} & & \Cat[2] & \Snowman[2] &\BasicTree[2]{black!80}{gray!50}{gray!40}{leaf}\\
 	\end{tabular}
@@ -502,6 +518,12 @@ P(X_{pi}|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - 
 	\end{center}
 \end{frame}
 
+\begin{frame}[plain]{Questions!}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\linewidth]{domande-simposio-word}
+\end{figure}
 
+\end{frame}
 
 \end{document}
