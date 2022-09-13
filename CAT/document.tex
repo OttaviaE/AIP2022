@@ -285,22 +285,22 @@
 \begin{frame}{Item Response Theory}{2-PL Model}
 
 				\begin{equation*}\label{eq:2pl}
-				P(x_{ps} = 1|\theta_p, b_j, a_j) = \frac{exp[a_j(\theta_p - b_j)]}{1 + exp[a_j(\theta_p - b_j)]}
+				P(x_{pj} = 1|\theta_p, b_j, a_j) = \frac{exp[a_j(\theta_p - b_j)]}{1 + exp[a_j(\theta_p - b_j)]}
 			\end{equation*}
 		\vspace{3mm}
 			where: 
 		
-			$P(x_{ps} = 1)$: Probability of a correct response to item $s$ by respondent $p$
+			$P(x_{pj} = 1)$: Probability of a correct response to item $s$ by respondent $p$
 			
 				\vspace{1.5mm}
 				
 			$\theta_p$: Ability of respondent $p$
 			
 				\vspace{1.5mm}
-			$b_j$: Difficulty of item $s$
+			$b_j$: Difficulty of item $j$
 			
 				\vspace{1.5mm}
-			$a_j$: Discrimination of item $s$
+			$a_j$: Discrimination of item $j$
 
 
 
@@ -333,7 +333,7 @@
 		Test Information Function
 	\end{center}
 	\begin{equation*}\label{eq:TIF}
-	\mathit{TIF} = \displaystyle \sum_{s=1}^{S} \mathit{IIF}_j
+	\mathit{TIF} = \displaystyle \sum_{j=1}^{J} \mathit{IIF}_j
 \end{equation*}
 \vspace*{-6mm}
 \pause
@@ -362,7 +362,7 @@
 		\end{quote}
 	\vspace*{-5mm}
 \begin{overprint}
-	\onslide<2>
+	\onslide<1>
 	\vspace{2mm}
 	\begin{table}
 \begin{tabular}{l  d{3.2}d{3.2}d{3.2}}
@@ -383,7 +383,7 @@
 \end{tabular}
 	\end{table}
 
-\onslide<3>
+\onslide<2>
 	\vspace{2mm}
 	\begin{table}
 	\begin{tabular}{l  d{3.2}d{3.2}d{3.2}}
@@ -518,7 +518,7 @@
 		\item \textbf{\textcolor{rp}{Random Procedure (RP)}}: $N$ items are randomly selected from the full-length tests 
 	\end{itemize}
 \vspace{3mm}
-10, 30, 50, 70-item short test forms from a  100-item full-length test 
+10, 30, 50, 70, 90-item short test forms from a  100-item full-length test 
 
 \end{frame}
 
@@ -530,15 +530,15 @@
 			\end{center}
 			\begin{enumerate}
 				\item Normal distribution $p \sim \mathcal{N}(0,1)$
-				\item Positive skewed distribution $p \sim Beta(1, 100)$ (linearly transformed to obtain negative values)
-				\item Uniform distribution $p \sim \mathcal{U}(-3,3)$
+				\item Positive skewed distribution $p \sim Beta(1, 100)$ \tiny (linearly transformed to obtain negative values) 
+				\item \normalsize Uniform distribution $p \sim \mathcal{U}(-3,3)$
 			\end{enumerate}
 			
 		\end{column}
 		
 		\begin{column}{.50\linewidth}
 			\begin{center}
-				100 items $s$:
+				100 items $j$:
 			\end{center}
 			\begin{itemize}
 				\item $b \sim \mathcal{U}(-3,3)$
@@ -591,6 +591,8 @@
 \begin{alertblock}{..but work is still needed}
 		
 		Real life applications are missing
+		
+		The CAT is missing
 \end{alertblock}
 
 \end{frame}

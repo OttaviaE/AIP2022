@@ -2,6 +2,6 @@
 \beamer@sectionintoc {2}{Item Response Theory and information functions}{11}{0}{2}
 \beamer@sectionintoc {3}{IRT procedures for shortening tests}{17}{0}{3}
 \beamer@subsectionintoc {3}{1}{Benchmark procedure}{18}{0}{3}
-\beamer@subsectionintoc {3}{2}{Procedures based on $\theta $ targets}{22}{0}{3}
-\beamer@sectionintoc {4}{Simulation study}{34}{0}{4}
-\beamer@sectionintoc {5}{Some final remarks}{40}{0}{5}
+\beamer@subsectionintoc {3}{2}{Procedures based on $\theta $ targets}{21}{0}{3}
+\beamer@sectionintoc {4}{Simulation study}{33}{0}{4}
+\beamer@sectionintoc {5}{Some final remarks}{39}{0}{5}
