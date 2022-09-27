@@ -11,6 +11,8 @@
 \definecolor{royalblue3}{RGB}{58,95,205}
 \definecolor{giallo}{RGB}{197, 151, 0}
 \definecolor{template}{RGB}{54, 114, 89}
+%\definecolor{template}{RGB}{1, 116, 179}
+%\definecolor{template}{RGB}{0, 113, 79}
 \definecolor{but}{RGB}{181, 18, 27}
 %\definecolor{template}{RGB}{181, 18, 27}
 \setbeamercolor{section in head/foot}{fg=white, bg=template}
@@ -132,7 +134,7 @@
 
 \title[Questionnaires and Beyond]{Questionnaires and beyond: \\ The Rasch model
 }
-\institute[]{September 27\textsuperscript{th}, Padova}
+\institute[]{September 27\textsuperscript{th} 2022, Padova}
 \author[]{\texorpdfstring{Ottavia M. Epifania\newline\url{ottavia.epifania@unipd.it} \newline Univerisity of  Padova \newline Catholic University of the Sacred Heart}{Author}}
 \date{XXX Conference of the Italian Association of Psychology (AIP)}
 \titlegraphic{%
@@ -148,10 +150,42 @@
 \section{The intuition}
 
 \begin{frame}
+	\onslide<1->
+	\tikzoverlay (bart) at (-0.8cm,2.2cm) {%
+		\begin{minipage}{.20\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\linewidth]{bart.png}
+			\end{figure}
+		\end{minipage}
+	};
+	\tikzoverlay (bart1) at (-0.8cm,-1.3cm) {%
+		\begin{minipage}{.20\textwidth}
+			\centering
+			$A_\text{Bart}$
+			
+		\end{minipage}
+	};
+	\tikzoverlay (lisa) at (8.5cm,1.5cm) {%
+		\begin{minipage}{.20\textwidth}
+			\begin{figure}
+				\centering
+				\includegraphics[width=\linewidth]{lisa.png}
+			\end{figure}
+		\end{minipage}
+	};
+	
+	\tikzoverlay (lisa1) at (9.2cm,-0.8cm) {%
+		\begin{minipage}{.20\textwidth}
+			\centering
+			$A_\text{Lisa}$
+			
+		\end{minipage}
+	};
+		\onslide<2->
 \tikzoverlay (math) at (1.5cm,2.0cm) {%
 	\begin{minipage}{.60\textwidth}
 \begin{columns}[T]
-		
 	\begin{column}{.50\linewidth}
 		\centering \textbf{Q1}
 		\begin{equation*}
@@ -168,7 +202,6 @@
 \end{columns}
 	\end{minipage}
 };
-\onslide<2->
 \tikzoverlay (math1) at (1.3cm,0.5cm) {%
 	\begin{minipage}{.60\textwidth}
 		\begin{columns}[T]
@@ -186,40 +219,8 @@
 		\end{columns}
 	\end{minipage}
 };
+
 \onslide<3->
-\tikzoverlay (bart) at (-0.8cm,2.2cm) {%
-	\begin{minipage}{.20\textwidth}
-		
-		\begin{figure}
-			\centering
-			\includegraphics[width=\linewidth]{bart.png}
-		\end{figure}
-	\end{minipage}
-};
-\tikzoverlay (bart1) at (-0.8cm,-1.3cm) {%
-	\begin{minipage}{.20\textwidth}
-		\centering
-		$A_\text{Bart}$
-
-	\end{minipage}
-};
-\tikzoverlay (lisa) at (8.5cm,1.5cm) {%
-	\begin{minipage}{.20\textwidth}
-		\begin{figure}
-			\centering
-			\includegraphics[width=\linewidth]{lisa.png}
-		\end{figure}
-	\end{minipage}
-};
-
-\tikzoverlay (lisa1) at (9.2cm,-0.8cm) {%
-	\begin{minipage}{.20\textwidth}
-				\centering
-		$A_\text{Lisa}$
-		
-	\end{minipage}
-};
-\onslide<4->
 \tikzoverlay (eq) at (0.3cm, -1.5cm){
 \begin{minipage}{.30\linewidth}
 	\begin{equation}
@@ -284,7 +285,7 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.7\linewidth]{psicostat}
+	\includegraphics[width=0.6\linewidth]{psicostat}
 \end{figure}
 
 
