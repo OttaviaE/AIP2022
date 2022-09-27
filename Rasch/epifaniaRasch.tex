@@ -246,7 +246,7 @@ $< 1$ if $A_p < d_i$
 \begin{frame}
 \begin{figure}
 	\centering
-	\includegraphics[width=0.5\linewidth]{later}
+	\includegraphics[width=0.3\linewidth]{later}
 \end{figure}
 \begin{columns}[T]
 	\begin{column}{.5\linewidth}
@@ -263,16 +263,24 @@ $< 1$ if $A_p < d_i$
 \begin{equation}
 P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
 \end{equation}
+
+
+
+	
 \end{frame}
 
 \begin{frame}
+\centering
 
-	\begin{overprint}
-		\centering
+\begin{overprint}
+	
 	\onslide<1>\includegraphics[width=\linewidth]{base.pdf}
 	\onslide<2>\includegraphics[width=\linewidth]{lisa.pdf}
 	\onslide<3>\includegraphics[width=\linewidth]{bart.pdf}
+	
+	
 \end{overprint}
+
 \end{frame}
 
 
@@ -288,6 +296,9 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 	\includegraphics[width=0.6\linewidth]{psicostat}
 \end{figure}
 
+\begin{equation*}
+	P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_p - \delta_i)}
+\end{equation*}
 
 \end{frame}
 
@@ -299,10 +310,10 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 \end{center}
 
 	\begin{overprint}
-					\onslide<2>
+					\onslide<1>
 					\centering
 					\includegraphics[width=.70\linewidth]{baseGLM.pdf}
-			\onslide<3>
+			\onslide<2->
 				\centering
 				\includegraphics[width=.70\linewidth]{linkGLM.pdf}
 	\end{overprint}
@@ -325,17 +336,17 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 \begin{frame}
 	Rasch model: Dichotomous responses 
 	
-	\onslide<2->
+
 	\begin{alertblock}{Issue}
 		
 		Quite limiting in Psychological Research
 	\end{alertblock}
 
-\onslide<3->
+
 \vspace{5mm}
 (Generalized) Linear Model: ``Any'' kind of response
 
-\onslide<4->
+
 \begin{exampleblock}{e.g.: Response times}
 	
 	log-transformation and log-normal model parametrization
@@ -419,11 +430,10 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 
 \begin{columns}[T]
 	\begin{column}{.50\linewidth}
-		\onslide<3->
 		\begin{center}
 			Rasch model
 		\end{center}
-		\onslide<4->
+
 		\begin{itemize}
 			\item Can't  be applied
 			\item The estimates would make no sense
@@ -431,11 +441,11 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 	\end{column}
 
 	\begin{column}{.50\linewidth}
-		\onslide<3->
+
 	\begin{center}
 	Generalized Linear Model
 	\end{center}
-	\onslide<4->
+
 	\begin{itemize}
 		\item Add the random part (Go Mixed)
 		\item Obtain a Rasch-like parametrization of the data

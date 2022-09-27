@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  27 SEP 2022 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  27 SEP 2022 16:38
 entering extended mode
 **./epifaniaRasch.tex
 (epifaniaRasch.tex
@@ -1524,55 +1524,55 @@ Package pdftex.def Info: lisa.png  used on input line 243.
 <later.jpeg, id=379, 1174.3875pt x 665.48625pt>
 File: later.jpeg Graphic file (type jpg)
 <use later.jpeg>
-Package pdftex.def Info: later.jpeg  used on input line 266.
-(pdftex.def)             Requested size: 153.64493pt x 87.06459pt.
+Package pdftex.def Info: later.jpeg  used on input line 270.
+(pdftex.def)             Requested size: 92.1879pt x 52.23468pt.
  [7
 
  <./later.jpeg>]
 <base.pdf, id=427, 1011.78pt x 614.295pt>
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 276.
+Package pdftex.def Info: base.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 <lisa.pdf, id=428, 1011.78pt x 614.295pt>
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 276.
+Package pdftex.def Info: lisa.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 <bart.pdf, id=429, 1011.78pt x 614.295pt>
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 276.
+Package pdftex.def Info: bart.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [8
 
  <./base.pdf>]
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 276.
+Package pdftex.def Info: base.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 276.
+Package pdftex.def Info: lisa.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 276.
+Package pdftex.def Info: bart.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [9
 
  <./lisa.pdf>]
 File: base.pdf Graphic file (type pdf)
 <use base.pdf>
-Package pdftex.def Info: base.pdf  used on input line 276.
+Package pdftex.def Info: base.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: lisa.pdf Graphic file (type pdf)
 <use lisa.pdf>
-Package pdftex.def Info: lisa.pdf  used on input line 276.
+Package pdftex.def Info: lisa.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
 File: bart.pdf Graphic file (type pdf)
 <use bart.pdf>
-Package pdftex.def Info: bart.pdf  used on input line 276.
+Package pdftex.def Info: bart.pdf  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 186.56764pt.
  [10
 
@@ -1581,7 +1581,7 @@ Package pdftex.def Info: bart.pdf  used on input line 276.
 ]
 File: psicostat.png Graphic file (type png)
 <use psicostat.png>
-Package pdftex.def Info: psicostat.png  used on input line 292.
+Package pdftex.def Info: psicostat.png  used on input line 303.
 (pdftex.def)             Requested size: 184.3758pt x 138.27406pt.
  [12
 
@@ -1589,130 +1589,125 @@ Package pdftex.def Info: psicostat.png  used on input line 292.
 <baseGLM.pdf, id=685, 1011.78pt x 614.295pt>
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 320.
+Package pdftex.def Info: baseGLM.pdf  used on input line 331.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 <linkGLM.pdf, id=686, 1011.78pt x 614.295pt>
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 320.
+Package pdftex.def Info: linkGLM.pdf  used on input line 331.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
  [13
-
-]
-File: baseGLM.pdf Graphic file (type pdf)
-<use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 320.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-File: linkGLM.pdf Graphic file (type pdf)
-<use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 320.
-(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
- [14
 
  <./baseGLM.pdf>]
 File: baseGLM.pdf Graphic file (type pdf)
 <use baseGLM.pdf>
-Package pdftex.def Info: baseGLM.pdf  used on input line 320.
+Package pdftex.def Info: baseGLM.pdf  used on input line 331.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
 File: linkGLM.pdf Graphic file (type pdf)
 <use linkGLM.pdf>
-Package pdftex.def Info: linkGLM.pdf  used on input line 320.
+Package pdftex.def Info: linkGLM.pdf  used on input line 331.
 (pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
-[15
 
- <./linkGLM.pdf>] (epifaniaRasch.toc) [16
+[14
+
+ <./linkGLM.pdf>]
+File: baseGLM.pdf Graphic file (type pdf)
+<use baseGLM.pdf>
+Package pdftex.def Info: baseGLM.pdf  used on input line 331.
+(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
+File: linkGLM.pdf Graphic file (type pdf)
+<use linkGLM.pdf>
+Package pdftex.def Info: linkGLM.pdf  used on input line 331.
+(pdftex.def)             Requested size: 215.10196pt x 130.58984pt.
+ [15
+
+] (epifaniaRasch.toc) [16
 
 ] [17
 
-] [18
+]
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
 
-] [19
 
-] [20
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 414--414
+[][] 
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 414--414
+[][] 
+ []
+
+[18
 
 ]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 403--403
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 414--414
 [][] 
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 414--414
 [][][][][][][]  
  []
 
 
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 403--403
+Overfull \hbox (64.5219pt too wide) in paragraph at lines 414--414
 [][] 
  []
 
-[21
-
-]
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 403--403
-[][] 
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 403--403
-[][][][][][][]  
- []
-
-
-Overfull \hbox (64.5219pt too wide) in paragraph at lines 403--403
-[][] 
- []
-
-[22
+[19
 
 ]
 \g__tikzsymbols_savebox_F_0 g 0 G_10.95_Cat_2_box=\box107
@@ -1721,47 +1716,42 @@ Overfull \hbox (64.5219pt too wide) in paragraph at lines 403--403
 af_box=\box109
 \g__tikzsymbols_savebox_F_0 g 0 G_10.95_NiceReapey_2_black!20!white_box=\box110
 
- [23
+ [20
 
-] [24
+] [21
 
-] [25
-
-] [26
-
-] (epifaniaRasch.toc) [27
+] (epifaniaRasch.toc) [22
 
 ]
-<pesce.jpg, id=1409, 483.59393pt x 445.15245pt>
+<pesce.jpg, id=1178, 483.59393pt x 445.15245pt>
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 505.
+Package pdftex.def Info: pesce.jpg  used on input line 515.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [28
+ [23
 
  <./pesce.jpg>]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 505.
+Package pdftex.def Info: pesce.jpg  used on input line 515.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [29
+ [24
 
 ]
-<raschJ.jpeg, id=1503, 190.7125pt x 264.99pt>
+<raschJ.jpeg, id=1270, 190.7125pt x 264.99pt>
 File: raschJ.jpeg Graphic file (type jpg)
 <use raschJ.jpeg>
-Package pdftex.def Info: raschJ.jpeg  used on input line 519.
+Package pdftex.def Info: raschJ.jpeg  used on input line 529.
 (pdftex.def)             Requested size: 153.64493pt x 213.49239pt.
-
-[30
+ [25
 
  <./raschJ.jpeg>]
-<domande-simposio-word.png, id=1530, 1087.06125pt x 1087.06125pt>
+<domande-simposio-word.png, id=1297, 1087.06125pt x 1087.06125pt>
 File: domande-simposio-word.png Graphic file (type png)
 <use domande-simposio-word.png>
-Package pdftex.def Info: domande-simposio-word.png  used on input line 532.
+Package pdftex.def Info: domande-simposio-word.png  used on input line 542.
 (pdftex.def)             Requested size: 153.64493pt x 153.63062pt.
- [31
+ [26
 
  <./domande-simposio-word.png>]
 \tf@nav=\write6
@@ -1778,42 +1768,33 @@ Package rerunfilecheck Info: File `epifaniaRasch.out' has not changed.
 (rerunfilecheck)             Checksum: 81E746D16B956EA3345AB2EDC3779129;233.
  ) 
 Here is how much of TeX's memory you used:
- 28943 strings out of 480236
- 623305 string characters out of 2880084
- 1323147 words of memory out of 3000000
+ 28930 strings out of 480236
+ 623174 string characters out of 2880084
+ 1323000 words of memory out of 3000000
  44721 multiletter control sequences out of 15000+200000
  551521 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,25n,112p,475b,2793s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation32} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation33} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation34} has been referenced but does not exis
-t, replaced by a fixed one
-
-<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/huawei/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users
-/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.p
-fb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmssi17.pfb><C:/Users/huawei/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huaw
-ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on epifaniaRasch.pdf (31 pages, 2902368 bytes).
+<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/huawei/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Use
+rs/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
+.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmssi17.pfb><C:/Users/huawei/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/hu
+awei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on epifaniaRasch.pdf (26 pages, 2806001 bytes).
 PDF statistics:
- 1622 PDF objects out of 1728 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 1386 PDF objects out of 1440 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 

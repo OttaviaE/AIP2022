@@ -4,4 +4,4 @@
 \beamer@sectionintoc {2}{The model}{6}{0}{2}
 \beamer@sectionintoc {3}{Wait...}{11}{0}{3}
 \beamer@sectionintoc {4}{Why is it useful?}{16}{0}{4}
-\beamer@sectionintoc {5}{Closing time}{27}{0}{5}
+\beamer@sectionintoc {5}{Closing time}{22}{0}{5}
