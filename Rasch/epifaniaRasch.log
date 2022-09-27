@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  27 SEP 2022 08:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  27 SEP 2022 09:14
 entering extended mode
 **./epifaniaRasch.tex
 (epifaniaRasch.tex
@@ -1735,75 +1735,33 @@ af_box=\box109
 <pesce.jpg, id=1409, 483.59393pt x 445.15245pt>
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [28
 
  <./pesce.jpg>]
 File: pesce.jpg Graphic file (type jpg)
 <use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
+Package pdftex.def Info: pesce.jpg  used on input line 505.
 (pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
  [29
 
 ]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
+<raschJ.jpeg, id=1503, 190.7125pt x 264.99pt>
+File: raschJ.jpeg Graphic file (type jpg)
+<use raschJ.jpeg>
+Package pdftex.def Info: raschJ.jpeg  used on input line 519.
+(pdftex.def)             Requested size: 153.64493pt x 213.49239pt.
 
 [30
 
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [31
-
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [32
-
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [33
-
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [34
-
-]
-File: pesce.jpg Graphic file (type jpg)
-<use pesce.jpg>
-Package pdftex.def Info: pesce.jpg  used on input line 506.
-(pdftex.def)             Requested size: 92.1879pt x 84.85832pt.
- [35
-
-]
-<raschJ.jpeg, id=1778, 190.7125pt x 264.99pt>
-File: raschJ.jpeg Graphic file (type jpg)
-<use raschJ.jpeg>
-Package pdftex.def Info: raschJ.jpeg  used on input line 520.
-(pdftex.def)             Requested size: 153.64493pt x 213.49239pt.
- [36
-
  <./raschJ.jpeg>]
-<domande-simposio-word.png, id=1804, 1087.06125pt x 1087.06125pt>
+<domande-simposio-word.png, id=1530, 1087.06125pt x 1087.06125pt>
 File: domande-simposio-word.png Graphic file (type png)
 <use domande-simposio-word.png>
-Package pdftex.def Info: domande-simposio-word.png  used on input line 528.
+Package pdftex.def Info: domande-simposio-word.png  used on input line 532.
 (pdftex.def)             Requested size: 153.64493pt x 153.63062pt.
- [37
+ [31
 
  <./domande-simposio-word.png>]
 \tf@nav=\write6
@@ -1820,33 +1778,42 @@ Package rerunfilecheck Info: File `epifaniaRasch.out' has not changed.
 (rerunfilecheck)             Checksum: 81E746D16B956EA3345AB2EDC3779129;233.
  ) 
 Here is how much of TeX's memory you used:
- 28952 strings out of 480236
- 623383 string characters out of 2880084
+ 28943 strings out of 480236
+ 623305 string characters out of 2880084
  1323147 words of memory out of 3000000
  44721 multiletter control sequences out of 15000+200000
  551521 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,25n,112p,475b,2793s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/huawei/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Use
-rs/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10
-.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmssi17.pfb><C:/Users/huawei/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/hu
-awei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on epifaniaRasch.pdf (37 pages, 2962028 bytes).
+pdfTeX warning (dest): name{Navigation32} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation33} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation34} has been referenced but does not exis
+t, replaced by a fixed one
+
+<C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mcsc10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmex10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/huawei/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/huawei/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/huawei/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users
+/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.p
+fb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmssi10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmssi12.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmssi17.pfb><C:/Users/huawei/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/huawei/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/huawei/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/huaw
+ei/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on epifaniaRasch.pdf (31 pages, 2902368 bytes).
 PDF statistics:
- 1900 PDF objects out of 2073 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
+ 1622 PDF objects out of 1728 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
