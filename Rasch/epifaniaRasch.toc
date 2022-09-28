@@ -1,7 +1,7 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
 \beamer@sectionintoc {1}{The intuition}{2}{0}{1}
-\beamer@sectionintoc {2}{The model}{6}{0}{2}
-\beamer@sectionintoc {3}{Wait...}{11}{0}{3}
-\beamer@sectionintoc {4}{Why is it useful?}{16}{0}{4}
-\beamer@sectionintoc {5}{Closing time}{22}{0}{5}
+\beamer@sectionintoc {2}{The model}{5}{0}{2}
+\beamer@sectionintoc {3}{Wait...}{9}{0}{3}
+\beamer@sectionintoc {4}{Why is it useful?}{13}{0}{4}
+\beamer@sectionintoc {5}{Closing time}{18}{0}{5}

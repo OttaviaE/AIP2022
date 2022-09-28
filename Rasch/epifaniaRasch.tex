@@ -68,26 +68,26 @@
 	stat/.style = {rectangle, rounded corners, minimum width=2.5cm, minimum height=0.1cm, text centered, draw=white,  text width=2.5cm}
 }
 
-\AtBeginSection[]
-{
-	\begin{frame}
-		\tableofcontents[currentsection,currentsubsection]
-	\end{frame}
-}  
-
-\AtBeginSubsection[]
-{
-	\begin{frame}
-		\tableofcontents[currentsection,currentsubsection]
-	\end{frame}
-}  
-
-\AtBeginSubsubsection[]
-{
-	\begin{frame}
-		\tableofcontents[currentsection,currentsubsection]
-	\end{frame}
-}  
+%\AtBeginSection[]
+%{
+%	\begin{frame}
+%		\tableofcontents[currentsection,currentsubsection]
+%	\end{frame}
+%}  
+%
+%\AtBeginSubsection[]
+%{
+%	\begin{frame}
+%		\tableofcontents[currentsection,currentsubsection]
+%	\end{frame}
+%}  
+%
+%\AtBeginSubsubsection[]
+%{
+%	\begin{frame}
+%		\tableofcontents[currentsection,currentsubsection]
+%	\end{frame}
+%}  
 
 \newcommand{\tstar}[5]{% inner radius, outer radius, tips, rot angle, options
 	\pgfmathsetmacro{\starangle}{360/#3}
@@ -372,7 +372,6 @@ P(X_{pi} = 1|\beta_p, \delta_i) = \dfrac{exp(\beta_p - \delta_i)}{1 + exp(\beta_
 				\begin{quote}
 					Respondents can be compared between each other without considering the items....and vice versa!
 				\end{quote}
-				\large
 				\item \textbf{\textcolor{template}{Local independence}}
 				\begin{quote}
 					Given the person $\rightarrow$ The responses to the items are independent 	
