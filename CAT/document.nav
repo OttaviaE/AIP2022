@@ -20,55 +20,57 @@
 \headcommand {\beamer@subsectionentry {0}{2}{1}{12}{2-PL Model}}
 \headcommand {\slideentry {2}{1}{1}{12/12}{2-PL Model}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Information functions}}
-\headcommand {\slideentry {2}{2}{1}{13/16}{Information functions}{0}}
+\headcommand {\slideentry {2}{1}{2}{13/16}{2-PL Model}{0}}
 \headcommand {\beamer@framepages {13}{16}}
-\headcommand {\beamer@sectionpages {11}{16}}
-\headcommand {\beamer@subsectionpages {13}{16}}
-\headcommand {\sectionentry {3}{Short form procedures}{17}{IRT procedures for shortening tests}{0}}
-\headcommand {\slideentry {3}{0}{1}{17/17}{}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@subsectionpages {17}{17}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{18}{Benchmark procedure}}
-\headcommand {\slideentry {3}{1}{1}{18/18}{Benchmark procedure}{0}}
-\headcommand {\beamer@framepages {18}{18}}
-\headcommand {\slideentry {3}{1}{2}{19/20}{Benchmark procedure}{0}}
-\headcommand {\beamer@framepages {19}{20}}
-\headcommand {\beamer@subsectionpages {18}{20}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{21}{Procedures based on $\theta $ targets}}
-\headcommand {\slideentry {3}{2}{1}{21/21}{Procedures based on $\theta $ targets}{0}}
+\headcommand {\beamer@subsectionpages {12}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{17}{Information functions}}
+\headcommand {\slideentry {2}{2}{1}{17/20}{Information functions}{0}}
+\headcommand {\beamer@framepages {17}{20}}
+\headcommand {\beamer@sectionpages {11}{20}}
+\headcommand {\beamer@subsectionpages {17}{20}}
+\headcommand {\sectionentry {3}{Short form procedures}{21}{IRT procedures for shortening tests}{0}}
+\headcommand {\slideentry {3}{0}{1}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {3}{2}{2}{22/29}{Procedures based on $\theta $ targets}{0}}
-\headcommand {\beamer@framepages {22}{29}}
-\headcommand {\slideentry {3}{2}{3}{30/32}{Procedures based on $\theta $ targets}{0}}
-\headcommand {\beamer@framepages {30}{32}}
-\headcommand {\beamer@sectionpages {17}{32}}
-\headcommand {\beamer@subsectionpages {21}{32}}
-\headcommand {\sectionentry {4}{Simulation}{33}{Simulation study}{0}}
-\headcommand {\slideentry {4}{0}{1}{33/33}{}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {4}{0}{2}{34/34}{}{0}}
-\headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {4}{0}{3}{35/35}{}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {4}{0}{4}{36/36}{}{0}}
-\headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {4}{0}{5}{37/37}{}{0}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{22}{Benchmark procedure}}
+\headcommand {\slideentry {3}{1}{1}{22/22}{Benchmark procedure}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{1}{2}{23/24}{Benchmark procedure}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\beamer@subsectionpages {22}{24}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{25}{Procedures based on $\theta $ targets}}
+\headcommand {\slideentry {3}{2}{1}{25/25}{Procedures based on $\theta $ targets}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {3}{2}{2}{26/33}{Procedures based on $\theta $ targets}{0}}
+\headcommand {\beamer@framepages {26}{33}}
+\headcommand {\slideentry {3}{2}{3}{34/36}{Procedures based on $\theta $ targets}{0}}
+\headcommand {\beamer@framepages {34}{36}}
+\headcommand {\beamer@sectionpages {21}{36}}
+\headcommand {\beamer@subsectionpages {25}{36}}
+\headcommand {\sectionentry {4}{Simulation}{37}{Simulation study}{0}}
+\headcommand {\slideentry {4}{0}{1}{37/37}{}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {4}{0}{6}{38/38}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{38/38}{}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@sectionpages {33}{38}}
-\headcommand {\beamer@subsectionpages {33}{38}}
-\headcommand {\sectionentry {5}{Final remarks}{39}{Some final remarks}{0}}
-\headcommand {\slideentry {5}{0}{1}{39/39}{}{0}}
+\headcommand {\slideentry {4}{0}{3}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{0}{2}{40/41}{}{0}}
-\headcommand {\beamer@framepages {40}{41}}
-\headcommand {\slideentry {5}{0}{3}{42/42}{}{0}}
+\headcommand {\slideentry {4}{0}{4}{40/40}{}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {4}{0}{5}{41/41}{}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {4}{0}{6}{42/42}{}{0}}
 \headcommand {\beamer@framepages {42}{42}}
-\headcommand {\beamer@partpages {1}{42}}
-\headcommand {\beamer@subsectionpages {39}{42}}
-\headcommand {\beamer@sectionpages {39}{42}}
-\headcommand {\beamer@documentpages {42}}
-\headcommand {\gdef \inserttotalframenumber {23}}
+\headcommand {\beamer@sectionpages {37}{42}}
+\headcommand {\beamer@subsectionpages {37}{42}}
+\headcommand {\sectionentry {5}{Final remarks}{43}{Some final remarks}{0}}
+\headcommand {\slideentry {5}{0}{1}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {5}{0}{2}{44/45}{}{0}}
+\headcommand {\beamer@framepages {44}{45}}
+\headcommand {\slideentry {5}{0}{3}{46/46}{}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\beamer@partpages {1}{46}}
+\headcommand {\beamer@subsectionpages {43}{46}}
+\headcommand {\beamer@sectionpages {43}{46}}
+\headcommand {\beamer@documentpages {46}}
+\headcommand {\gdef \inserttotalframenumber {24}}

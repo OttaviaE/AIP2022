@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  26 SEP 2022 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  29 SEP 2022 09:16
 entering extended mode
 **./document.tex
 (document.tex
@@ -1756,248 +1756,330 @@ LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <10.95> not available
 ] [12
 
 ]
-<img/iifs.pdf, id=467, 1011.78pt x 614.295pt>
+<img/item.pdf, id=469, 1011.78pt x 614.295pt>
+File: img/item.pdf Graphic file (type pdf)
+<use img/item.pdf>
+Package pdftex.def Info: img/item.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+<img/itemA.pdf, id=470, 1011.78pt x 614.295pt>
+File: img/itemA.pdf Graphic file (type pdf)
+<use img/itemA.pdf>
+Package pdftex.def Info: img/itemA.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+<img/itemB.pdf, id=471, 1011.78pt x 614.295pt>
+File: img/itemB.pdf Graphic file (type pdf)
+<use img/itemB.pdf>
+Package pdftex.def Info: img/itemB.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+<img/itemC.pdf, id=472, 1011.78pt x 614.295pt>
+File: img/itemC.pdf Graphic file (type pdf)
+<use img/itemC.pdf>
+Package pdftex.def Info: img/itemC.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+ [13
+
+ <./img/item.pdf>]
+File: img/item.pdf Graphic file (type pdf)
+<use img/item.pdf>
+Package pdftex.def Info: img/item.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemA.pdf Graphic file (type pdf)
+<use img/itemA.pdf>
+Package pdftex.def Info: img/itemA.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemB.pdf Graphic file (type pdf)
+<use img/itemB.pdf>
+Package pdftex.def Info: img/itemB.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemC.pdf Graphic file (type pdf)
+<use img/itemC.pdf>
+Package pdftex.def Info: img/itemC.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+
+[14
+
+ <./img/itemA.pdf>]
+File: img/item.pdf Graphic file (type pdf)
+<use img/item.pdf>
+Package pdftex.def Info: img/item.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemA.pdf Graphic file (type pdf)
+<use img/itemA.pdf>
+Package pdftex.def Info: img/itemA.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemB.pdf Graphic file (type pdf)
+<use img/itemB.pdf>
+Package pdftex.def Info: img/itemB.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemC.pdf Graphic file (type pdf)
+<use img/itemC.pdf>
+Package pdftex.def Info: img/itemC.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+ [15
+
+ <./img/itemB.pdf>]
+File: img/item.pdf Graphic file (type pdf)
+<use img/item.pdf>
+Package pdftex.def Info: img/item.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemA.pdf Graphic file (type pdf)
+<use img/itemA.pdf>
+Package pdftex.def Info: img/itemA.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemB.pdf Graphic file (type pdf)
+<use img/itemB.pdf>
+Package pdftex.def Info: img/itemB.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+File: img/itemC.pdf Graphic file (type pdf)
+<use img/itemC.pdf>
+Package pdftex.def Info: img/itemC.pdf  used on input line 321.
+(pdftex.def)             Requested size: 321.51625pt x 195.2099pt.
+ [16
+
+ <./img/itemC.pdf>]
+<img/iifs.pdf, id=652, 1011.78pt x 614.295pt>
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
-Package pdftex.def Info: img/iifs.pdf  used on input line 349.
+Package pdftex.def Info: img/iifs.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 349.
+(Font)              <9> on input line 363.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 349.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 363.
 
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 349
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 363
 .
-<img/tif.pdf, id=468, 1011.78pt x 614.295pt>
+<img/tif.pdf, id=653, 1011.78pt x 614.295pt>
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
-Package pdftex.def Info: img/tif.pdf  used on input line 349.
+Package pdftex.def Info: img/tif.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 349.
+(Font)              <10> on input line 363.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 349.
+(Font)              <7> on input line 363.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 349.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 363.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 349.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 363.
 
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 349
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 363
 .
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 349
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 363
 .
- [13
+ [17
 
  <./img/iifs.pdf> <./img/tif.pdf>]
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
-Package pdftex.def Info: img/iifs.pdf  used on input line 349.
+Package pdftex.def Info: img/iifs.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
-Package pdftex.def Info: img/tif.pdf  used on input line 349.
+Package pdftex.def Info: img/tif.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
- [14
+ [18
 
 ]
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
-Package pdftex.def Info: img/iifs.pdf  used on input line 349.
+Package pdftex.def Info: img/iifs.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
-Package pdftex.def Info: img/tif.pdf  used on input line 349.
+Package pdftex.def Info: img/tif.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
- [15
+ [19
 
 ]
 File: img/iifs.pdf Graphic file (type pdf)
 <use img/iifs.pdf>
-Package pdftex.def Info: img/iifs.pdf  used on input line 349.
+Package pdftex.def Info: img/iifs.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
 File: img/tif.pdf Graphic file (type pdf)
 <use img/tif.pdf>
-Package pdftex.def Info: img/tif.pdf  used on input line 349.
+Package pdftex.def Info: img/tif.pdf  used on input line 363.
 (pdftex.def)             Requested size: 160.75812pt x 97.59557pt.
- [16
+ [20
 
-] (document.toc) [17
+] (document.toc) [21
 
-] (document.toc) [18
-
-]
-Overfull \vbox (7.19855pt too high) detected at line 412
- []
-
-[19
-
-]
-Overfull \vbox (7.19855pt too high) detected at line 412
- []
-
-[20
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 416.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\theta' on input line 416.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 416.
-
-(document.toc) [21
-
-]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 471.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 471.
-
-LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 471
-.
-
-Overfull \vbox (10.02582pt too high) detected at line 471
- []
-
+] (document.toc)
 [22
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+Overfull \vbox (7.19855pt too high) detected at line 426
  []
 
 [23
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+Overfull \vbox (7.19855pt too high) detected at line 426
  []
 
 [24
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
- []
 
-[25
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\theta' on input line 430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 430.
+
+(document.toc) [25
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 485.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 485.
+
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 485
+.
+
+Overfull \vbox (10.02582pt too high) detected at line 485
  []
 
 [26
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+Overfull \vbox (10.02582pt too high) detected at line 485
  []
 
 [27
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+Overfull \vbox (10.02582pt too high) detected at line 485
  []
 
 [28
 
 ]
-Overfull \vbox (10.02582pt too high) detected at line 471
+Overfull \vbox (10.02582pt too high) detected at line 485
  []
 
 [29
 
 ]
-<eip.pdf, id=1038, 1011.78pt x 614.295pt>
+Overfull \vbox (10.02582pt too high) detected at line 485
+ []
+
+[30
+
+]
+Overfull \vbox (10.02582pt too high) detected at line 485
+ []
+
+[31
+
+]
+Overfull \vbox (10.02582pt too high) detected at line 485
+ []
+
+[32
+
+]
+Overfull \vbox (10.02582pt too high) detected at line 485
+ []
+
+[33
+
+]
+<eip.pdf, id=1223, 1011.78pt x 614.295pt>
 File: eip.pdf Graphic file (type pdf)
 <use eip.pdf>
-Package pdftex.def Info: eip.pdf  used on input line 507.
+Package pdftex.def Info: eip.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
-<latent.pdf, id=1039, 1011.78pt x 614.295pt>
+<latent.pdf, id=1224, 1011.78pt x 614.295pt>
 File: latent.pdf Graphic file (type pdf)
 <use latent.pdf>
-Package pdftex.def Info: latent.pdf  used on input line 507.
+Package pdftex.def Info: latent.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
- [30
+ [34
 
 ]
 File: eip.pdf Graphic file (type pdf)
 <use eip.pdf>
-Package pdftex.def Info: eip.pdf  used on input line 507.
+Package pdftex.def Info: eip.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
 File: latent.pdf Graphic file (type pdf)
 <use latent.pdf>
-Package pdftex.def Info: latent.pdf  used on input line 507.
+Package pdftex.def Info: latent.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
- [31
+ [35
 
  <./eip.pdf>]
 File: eip.pdf Graphic file (type pdf)
 <use eip.pdf>
-Package pdftex.def Info: eip.pdf  used on input line 507.
+Package pdftex.def Info: eip.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
 File: latent.pdf Graphic file (type pdf)
 <use latent.pdf>
-Package pdftex.def Info: latent.pdf  used on input line 507.
+Package pdftex.def Info: latent.pdf  used on input line 521.
 (pdftex.def)             Requested size: 257.21397pt x 156.16978pt.
- [32
+ [36
 
- <./latent.pdf>] (document.toc) [33
+ <./latent.pdf>] (document.toc) [37
 
-] [34
-
-]
-[35
+] [38
 
 ]
-<img/info.pdf, id=1239, 1011.78pt x 614.295pt>
+[39
+
+]
+<img/info.pdf, id=1424, 1011.78pt x 614.295pt>
 File: img/info.pdf Graphic file (type pdf)
 <use img/info.pdf>
-Package pdftex.def Info: img/info.pdf  used on input line 558.
+Package pdftex.def Info: img/info.pdf  used on input line 572.
 (pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
 
-Overfull \vbox (3.54723pt too high) detected at line 558
+Overfull \vbox (3.54723pt too high) detected at line 572
  []
 
-[36
+[40
 
  <./img/info.pdf>]
-<img/infoDetails.pdf, id=1275, 1011.78pt x 614.295pt>
+<img/infoDetails.pdf, id=1460, 1011.78pt x 614.295pt>
 File: img/infoDetails.pdf Graphic file (type pdf)
 <use img/infoDetails.pdf>
-Package pdftex.def Info: img/infoDetails.pdf  used on input line 566.
+Package pdftex.def Info: img/infoDetails.pdf  used on input line 580.
 (pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
 
-Overfull \vbox (3.54723pt too high) detected at line 566
+Overfull \vbox (3.54723pt too high) detected at line 580
  []
 
-[37
+[41
 
  <./img/infoDetails.pdf>]
-<img/BIAS.pdf, id=1311, 1011.78pt x 614.295pt>
+<img/BIAS.pdf, id=1495, 1011.78pt x 614.295pt>
 File: img/BIAS.pdf Graphic file (type pdf)
 <use img/BIAS.pdf>
-Package pdftex.def Info: img/BIAS.pdf  used on input line 574.
+Package pdftex.def Info: img/BIAS.pdf  used on input line 588.
 (pdftex.def)             Requested size: 289.36266pt x 175.68515pt.
 
-Overfull \vbox (4.5917pt too high) detected at line 574
+Overfull \vbox (4.5917pt too high) detected at line 588
  []
 
-[38
+[42
 
- <./img/BIAS.pdf>] (document.toc) [39
+ <./img/BIAS.pdf>] (document.toc) [43
 
-] [40
+] [44
 
-] [41
+] [45
 
-] [42
+] [46
 
 ]
 \tf@nav=\write6
@@ -2011,17 +2093,17 @@ Overfull \vbox (4.5917pt too high) detected at line 574
 
  (document.aux)
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 004EF9819AEDB3A5B7E02C5A64139558;583.
+(rerunfilecheck)             Checksum: E027DFE8A3FB8BA23DAF7D187751FD1F;583.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32177 strings out of 480236
- 669557 string characters out of 2880084
- 1085368 words of memory out of 3000000
- 47769 multiletter control sequences out of 15000+200000
+ 32214 strings out of 480236
+ 670142 string characters out of 2880084
+ 1086422 words of memory out of 3000000
+ 47795 multiletter control sequences out of 15000+200000
  666735 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,17n,112p,461b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2050,9 +2132,9 @@ lm/lmsso9.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public
 c/lm/lmsy8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/lm/lmtt10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/lm/lmtt12.pfb>
-Output written on document.pdf (42 pages, 1958781 bytes).
+Output written on document.pdf (46 pages, 2697676 bytes).
 PDF statistics:
- 1560 PDF objects out of 1728 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 36118 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1746 PDF objects out of 2073 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
+ 36138 words of extra memory for PDF output out of 42996 (max. 10000000)
 
