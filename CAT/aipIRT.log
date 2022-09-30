@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  30 SEP 2022 09:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2022.6.6)  30 SEP 2022 09:45
 entering extended mode
 **./aipIRT.tex
 (aipIRT.tex
@@ -2076,9 +2076,15 @@ Overfull \vbox (4.5917pt too high) detected at line 588
 
 ] [45
 
-] [46
-
 ]
+<img/codeSlide.png, id=1632, 1151.30125pt x 1151.30125pt>
+File: img/codeSlide.png Graphic file (type png)
+<use img/codeSlide.png>
+Package pdftex.def Info: img/codeSlide.png  used on input line 631.
+(pdftex.def)             Requested size: 128.60452pt x 128.5935pt.
+ [46
+
+ <./img/codeSlide.png>]
 \tf@nav=\write6
 \openout6 = `aipIRT.nav'.
 
@@ -2088,7 +2094,8 @@ Overfull \vbox (4.5917pt too high) detected at line 588
 \tf@snm=\write8
 \openout8 = `aipIRT.snm'.
 
- (aipIRT.aux)
+
+(aipIRT.aux)
 Package rerunfilecheck Info: File `aipIRT.out' has not changed.
 (rerunfilecheck)             Checksum: E027DFE8A3FB8BA23DAF7D187751FD1F;583.
 
@@ -2097,10 +2104,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 32215 strings out of 480236
- 670082 string characters out of 2880084
+ 32224 strings out of 480236
+ 670246 string characters out of 2880084
  1086406 words of memory out of 3000000
- 47795 multiletter control sequences out of 15000+200000
+ 47803 multiletter control sequences out of 15000+200000
  666735 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,17n,112p,459b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2129,9 +2136,9 @@ lm/lmsso9.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/public
 c/lm/lmsy8.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/lm/lmtt10.pfb><C:/Users/huawei/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/lm/lmtt12.pfb>
-Output written on aipIRT.pdf (46 pages, 2697676 bytes).
+Output written on aipIRT.pdf (46 pages, 2756391 bytes).
 PDF statistics:
- 1746 PDF objects out of 2073 (max. 8388607)
+ 1747 PDF objects out of 2073 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
- 36138 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 36143 words of extra memory for PDF output out of 42996 (max. 10000000)
 
